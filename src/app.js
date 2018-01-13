@@ -15,7 +15,7 @@ function daysInMonth(year, month) {
 function renderCalendar(date) {
   date = new Date(date.getFullYear(), date.getMonth(), 1);
 
-  document.querySelector('#calendar h1').innerText = getMonthName(date.getMonth()) + ' ' + date.getFullYear();
+  document.querySelector('#calendar header').innerHTML = '<p><i class="fa fa-chevron-left" id="prev-month" aria-hidden="true"></i></p>' + '<p>' +  getMonthName(date.getMonth()) + ' ' + date.getFullYear() + '</p>' + '<p><i class="fa fa-chevron-right" id="next-month" aria-hidden="true"></i></p>'
 
   // Spacers
   for (var i = 0; i < date.getDay()-1; i++) {
@@ -33,6 +33,23 @@ function renderCalendar(date) {
   for (var i = 0; i < endSpacers; i++) {
     document.querySelector('#calendar .days').innerHTML += '<div class="spacer post"></div>';
   }
+}
+
+function clearCalendar() {
+  var currentCalendar = document.getElementById("calendar");
+  currentCalendar.innerHTML = "";
+}
+
+function nextMonth() {
+  clearCalendar();
+  date.setMonth(date.getMonth() + 1);
+  renderCalender(date.getMonth());
+}
+
+function previousMonth() {
+  clearCalendar();
+  date.setMonth(date.getMonth() -1);
+  renderCalender(date.getMonth());
 }
 
 renderCalendar(new Date());
