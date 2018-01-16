@@ -4,7 +4,7 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 const ExtractTextPlugin = require('extract-text-webpack-plugin');
 const webpack = require('webpack');
 
-const extractPlugin = new ExtractTextPlugin({
+const extractSCSS = new ExtractTextPlugin({
   filename: './assets/css/app.css'
 });
 
@@ -36,16 +36,34 @@ const config = {
       },
       //html-loader
       { test: /\.html$/, use: ['html-loader'] },
+      // CSS loader
+      {
+          test: /\.css$/,
+          // include: /node_modules/,
+          loader:  'style-loader!css-loader'
+      },
       //sass-loader
       {
         test: /\.scss$/,
         include: [path.resolve(__dirname, 'src', 'assets', 'scss')],
-        use: extractPlugin.extract({
+        use: extractSCSS.extract({
           use: [
             {
               loader: 'css-loader',
               options: {
                 sourceMap: true
+              }
+            },
+            {
+              loader: 'postcss-loader', // Run post css actions
+              options: {
+                sourceMap: true,
+                plugins: function () { // post css plugins, can be exported to postcss.config.js
+                  return [
+                    // require('precss'),
+                    require('autoprefixer')
+                  ];
+                }
               }
             },
             {
@@ -90,7 +108,7 @@ const config = {
     new HtmlWebpackPlugin({
       template: 'index.html',
     }),
-    extractPlugin
+    extractSCSS,
   ],
   devServer: {
     contentBase: path.resolve(__dirname, 'dist/assets/media'),
