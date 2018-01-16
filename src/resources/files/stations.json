@@ -1,0 +1,5111 @@
+{
+    "stations": {
+        "R001": {
+            "color": "#FCCC0A",
+            "control_area": "R101S",
+            "coords": {
+                "lat": 40.703082,
+                "lng": -74.012983
+            },
+            "division": "IRT",
+            "line_name": "R1",
+            "station_name": "SOUTH FERRY"
+        },
+        "R002": {
+            "color": "#2850AD",
+            "control_area": "A082",
+            "coords": {
+                "lat": 40.709938,
+                "lng": -74.007983
+            },
+            "division": "BMT",
+            "line_name": "ACJZ2345",
+            "station_name": "FULTON ST"
+        },
+        "R003": {
+            "color": "#996633",
+            "control_area": "J025",
+            "coords": {
+                "lat": 40.689945,
+                "lng": -73.872564
+            },
+            "division": "BMT",
+            "line_name": "J",
+            "station_name": "CYPRESS HILLS"
+        },
+        "R004": {
+            "color": "#996633",
+            "control_area": "J028",
+            "coords": {
+                "lat": 40.69132,
+                "lng": -73.867135
+            },
+            "division": "BMT",
+            "line_name": "JZ",
+            "station_name": "ELDERTS LANE"
+        },
+        "R005": {
+            "color": "#996633",
+            "control_area": "J030",
+            "coords": {
+                "lat": 40.692304,
+                "lng": -73.860151
+            },
+            "division": "BMT",
+            "line_name": "J",
+            "station_name": "FOREST PARKWAY"
+        },
+        "R006": {
+            "color": "#996633",
+            "control_area": "J032",
+            "coords": {
+                "lat": 40.693866,
+                "lng": -73.851568
+            },
+            "division": "BMT",
+            "line_name": "JZ",
+            "station_name": "WOODHAVEN BLVD"
+        },
+        "R007": {
+            "color": "#996633",
+            "control_area": "J034",
+            "coords": {
+                "lat": 40.695184,
+                "lng": -73.844326
+            },
+            "division": "BMT",
+            "line_name": "JZ",
+            "station_name": "104 ST"
+        },
+        "R008": {
+            "color": "#996633",
+            "control_area": "J035",
+            "coords": {
+                "lat": 40.697405,
+                "lng": -73.836354
+            },
+            "division": "BMT",
+            "line_name": "J",
+            "station_name": "111 ST"
+        },
+        "R009": {
+            "color": "#996633",
+            "control_area": "J037",
+            "coords": {
+                "lat": 40.700536,
+                "lng": -73.828382
+            },
+            "division": "BMT",
+            "line_name": "JZ",
+            "station_name": "121 ST"
+        },
+        "R010": {
+            "color": "#2850AD",
+            "control_area": "N060",
+            "coords": {
+                "lat": 40.757303,
+                "lng": -73.989787
+            },
+            "division": "IND",
+            "line_name": "ACENQRS1237",
+            "station_name": "42 ST-PA BUS TE"
+        },
+        "R011": {
+            "color": "#2850AD",
+            "control_area": "N063",
+            "coords": {
+                "lat": 40.757303,
+                "lng": -73.989787
+            },
+            "division": "IND",
+            "line_name": "ACENQRS1237",
+            "station_name": "42 ST-PA BUS TE"
+        },
+        "R012": {
+            "color": "#2850AD",
+            "control_area": "N072",
+            "coords": {
+                "lat": 40.752247,
+                "lng": -73.993456
+            },
+            "division": "IND",
+            "line_name": "ACE",
+            "station_name": "34 ST-PENN STA"
+        },
+        "R013": {
+            "color": "#2850AD",
+            "control_area": "N073",
+            "coords": {
+                "lat": 40.752247,
+                "lng": -73.993456
+            },
+            "division": "IND",
+            "line_name": "ACE",
+            "station_name": "34 ST-PENN STA"
+        },
+        "R014": {
+            "color": "#EE352E",
+            "control_area": "R205A",
+            "coords": {
+                "lat": 40.709938,
+                "lng": -74.007983
+            },
+            "division": "IRT",
+            "line_name": "2345ACJZ",
+            "station_name": "FULTON ST"
+        },
+        "R015": {
+            "color": "#2850AD",
+            "control_area": "N304",
+            "coords": {
+                "lat": 40.760179,
+                "lng": -73.975196
+            },
+            "division": "IND",
+            "line_name": "EM",
+            "station_name": "5 AVE-53 ST"
+        },
+        "R016": {
+            "color": "#2850AD",
+            "control_area": "N305A",
+            "coords": {
+                "lat": 40.75753,
+                "lng": -73.969102
+            },
+            "division": "IND",
+            "line_name": "EM6",
+            "station_name": "LEXINGTON-53 ST"
+        },
+        "R017": {
+            "color": "#2850AD",
+            "control_area": "N305",
+            "coords": {
+                "lat": 40.75753,
+                "lng": -73.969102
+            },
+            "division": "IND",
+            "line_name": "EM6",
+            "station_name": "LEXINGTON-53 ST"
+        },
+        "R018": {
+            "color": "#2850AD",
+            "control_area": "R525",
+            "coords": {
+                "lat": 40.746655,
+                "lng": -73.891361
+            },
+            "division": "IRT",
+            "line_name": "EFMR7",
+            "station_name": "74 ST-BROADWAY"
+        },
+        "R019": {
+            "color": "#FF6319",
+            "control_area": "N342",
+            "coords": {
+                "lat": 40.712622,
+                "lng": -73.783815
+            },
+            "division": "IND",
+            "line_name": "F",
+            "station_name": "JAMAICA-179 ST"
+        },
+        "R020": {
+            "color": "#FF6319",
+            "control_area": "N501A",
+            "coords": {
+                "lat": 40.758652,
+                "lng": -73.981311
+            },
+            "division": "IND",
+            "line_name": "BDFM",
+            "station_name": "47-50 ST-ROCK"
+        },
+        "R021": {
+            "color": "#FF6319",
+            "control_area": "N504",
+            "coords": {
+                "lat": 40.754198,
+                "lng": -73.984573
+            },
+            "division": "IND",
+            "line_name": "BDFM7",
+            "station_name": "42 ST-BRYANT PK"
+        },
+        "R022": {
+            "color": "#FF6319",
+            "control_area": "N505",
+            "coords": {
+                "lat": 40.749533,
+                "lng": -73.987899
+            },
+            "division": "IND",
+            "line_name": "BDFMNQR",
+            "station_name": "34 ST-HERALD SQ"
+        },
+        "R023": {
+            "color": "#FF6319",
+            "control_area": "N507",
+            "coords": {
+                "lat": 40.749533,
+                "lng": -73.987899
+            },
+            "division": "IND",
+            "line_name": "BDFMNQR",
+            "station_name": "34 ST-HERALD SQ"
+        },
+        "R024": {
+            "color": "#2850AD",
+            "control_area": "N605",
+            "coords": {
+                "lat": 40.700488,
+                "lng": -73.807933
+            },
+            "division": "IND",
+            "line_name": "EJZ",
+            "station_name": "SUTPHIN BLVD"
+        },
+        "R025": {
+            "color": "#2850AD",
+            "control_area": "N607",
+            "coords": {
+                "lat": 40.702131,
+                "lng": -73.80111
+            },
+            "division": "IND",
+            "line_name": "EJZ",
+            "station_name": "JAMAICA CENTER"
+        },
+        "R027": {
+            "color": "#EE352E",
+            "control_area": "R112A",
+            "coords": {
+                "lat": 40.706864,
+                "lng": -74.009056
+            },
+            "division": "IRT",
+            "line_name": "23",
+            "station_name": "WALL ST"
+        },
+        "R028": {
+            "color": "#EE352E",
+            "control_area": "R114",
+            "coords": {
+                "lat": 40.709938,
+                "lng": -74.007983
+            },
+            "division": "IRT",
+            "line_name": "2345ACJZ",
+            "station_name": "FULTON ST"
+        },
+        "R029": {
+            "color": "#2850AD",
+            "control_area": "N092",
+            "coords": {
+                "lat": 40.71433,
+                "lng": -74.008563
+            },
+            "division": "IND",
+            "line_name": "ACE23",
+            "station_name": "CHAMBERS ST"
+        },
+        "R030": {
+            "color": "#EE352E",
+            "control_area": "R116",
+            "coords": {
+                "lat": 40.715436,
+                "lng": -74.009335
+            },
+            "division": "IRT",
+            "line_name": "123",
+            "station_name": "CHAMBERS ST"
+        },
+        "R031": {
+            "color": "#EE352E",
+            "control_area": "R139",
+            "coords": {
+                "lat": 40.750329,
+                "lng": -73.991096
+            },
+            "division": "IRT",
+            "line_name": "123",
+            "station_name": "34 ST-PENN STA"
+        },
+        "R032": {
+            "color": "#EE352E",
+            "control_area": "R146",
+            "coords": {
+                "lat": 40.755905,
+                "lng": -73.986504
+            },
+            "division": "IRT",
+            "line_name": "1237ACENQRS",
+            "station_name": "42 ST-TIMES SQ"
+        },
+        "R033": {
+            "color": "#EE352E",
+            "control_area": "R147",
+            "coords": {
+                "lat": 40.755905,
+                "lng": -73.986504
+            },
+            "division": "IRT",
+            "line_name": "1237ACENQRS",
+            "station_name": "42 ST-TIMES SQ"
+        },
+        "R034": {
+            "color": "#EE352E",
+            "control_area": "R174",
+            "coords": {
+                "lat": 40.815596,
+                "lng": -73.958395
+            },
+            "division": "IRT",
+            "line_name": "1",
+            "station_name": "125 ST"
+        },
+        "R035": {
+            "color": "#EE352E",
+            "control_area": "R182",
+            "coords": {
+                "lat": 40.840778,
+                "lng": -73.940091
+            },
+            "division": "IRT",
+            "line_name": "1AC",
+            "station_name": "168 ST-BROADWAY"
+        },
+        "R036": {
+            "color": "#EE352E",
+            "control_area": "R186",
+            "coords": {
+                "lat": 40.860523,
+                "lng": -73.925575
+            },
+            "division": "IRT",
+            "line_name": "1",
+            "station_name": "DYCKMAN ST"
+        },
+        "R037": {
+            "color": "#EE352E",
+            "control_area": "R188",
+            "coords": {
+                "lat": 40.864653,
+                "lng": -73.918719
+            },
+            "division": "IRT",
+            "line_name": "1",
+            "station_name": "207 ST"
+        },
+        "R038": {
+            "color": "#EE352E",
+            "control_area": "R190",
+            "coords": {
+                "lat": 40.869359,
+                "lng": -73.915329
+            },
+            "division": "IRT",
+            "line_name": "1",
+            "station_name": "215 ST"
+        },
+        "R039": {
+            "color": "#EE352E",
+            "control_area": "R192",
+            "coords": {
+                "lat": 40.874551,
+                "lng": -73.909879
+            },
+            "division": "IRT",
+            "line_name": "1",
+            "station_name": "MARBLE HILL-225"
+        },
+        "R040": {
+            "color": "#EE352E",
+            "control_area": "R194",
+            "coords": {
+                "lat": 40.878867,
+                "lng": -73.904858
+            },
+            "division": "IRT",
+            "line_name": "1",
+            "station_name": "231 ST"
+        },
+        "R041": {
+            "color": "#00933C",
+            "control_area": "R200A",
+            "coords": {
+                "lat": 40.704782,
+                "lng": -74.014099
+            },
+            "division": "IRT",
+            "line_name": "45",
+            "station_name": "BOWLING GREEN"
+        },
+        "R042": {
+            "color": "#00933C",
+            "control_area": "R202",
+            "coords": {
+                "lat": 40.704782,
+                "lng": -74.014099
+            },
+            "division": "IRT",
+            "line_name": "45",
+            "station_name": "BOWLING GREEN"
+        },
+        "R043": {
+            "color": "#00933C",
+            "control_area": "R204A",
+            "coords": {
+                "lat": 40.707466,
+                "lng": -74.011867
+            },
+            "division": "IRT",
+            "line_name": "45",
+            "station_name": "WALL ST"
+        },
+        "R044": {
+            "color": "#996633",
+            "control_area": "R210A",
+            "coords": {
+                "lat": 40.713159,
+                "lng": -74.003917
+            },
+            "division": "IRT",
+            "line_name": "JZ456",
+            "station_name": "BROOKLYN BRIDGE"
+        },
+        "R045": {
+            "color": "#00933C",
+            "control_area": "R233",
+            "coords": {
+                "lat": 40.751849,
+                "lng": -73.976945
+            },
+            "division": "IRT",
+            "line_name": "4567S",
+            "station_name": "42 ST-GRD CNTRL"
+        },
+        "R046": {
+            "color": "#00933C",
+            "control_area": "R238A",
+            "coords": {
+                "lat": 40.751849,
+                "lng": -73.976945
+            },
+            "division": "IRT",
+            "line_name": "4567S",
+            "station_name": "42 ST-GRD CNTRL"
+        },
+        "R047": {
+            "color": "#00933C",
+            "control_area": "R237B",
+            "coords": {
+                "lat": 40.751849,
+                "lng": -73.976945
+            },
+            "division": "IRT",
+            "line_name": "4567S",
+            "station_name": "42 ST-GRD CNTRL"
+        },
+        "R048": {
+            "color": "#00933C",
+            "control_area": "R241A",
+            "coords": {
+                "lat": 40.751849,
+                "lng": -73.976945
+            },
+            "division": "IRT",
+            "line_name": "4567S",
+            "station_name": "42 ST-GRD CNTRL"
+        },
+        "R049": {
+            "color": "#00933C",
+            "control_area": "R242A",
+            "coords": {
+                "lat": 40.757108,
+                "lng": -73.97187
+            },
+            "division": "IRT",
+            "line_name": "6",
+            "station_name": "51 ST"
+        },
+        "R050": {
+            "color": "#00933C",
+            "control_area": "R244A",
+            "coords": {
+                "lat": 40.762796,
+                "lng": -73.967686
+            },
+            "division": "IRT",
+            "line_name": "456NQR",
+            "station_name": "59 ST"
+        },
+        "R051": {
+            "color": "#00933C",
+            "control_area": "R245A",
+            "coords": {
+                "lat": 40.762796,
+                "lng": -73.967686
+            },
+            "division": "IRT",
+            "line_name": "456NQR",
+            "station_name": "59 ST"
+        },
+        "R052": {
+            "color": "#00933C",
+            "control_area": "R294",
+            "coords": {
+                "lat": 40.885973,
+                "lng": -73.878851
+            },
+            "division": "IRT",
+            "line_name": "4",
+            "station_name": "WOODLAWN ROAD"
+        },
+        "R053": {
+            "color": "#EE352E",
+            "control_area": "R310",
+            "coords": {
+                "lat": 40.816132,
+                "lng": -73.917754
+            },
+            "division": "IRT",
+            "line_name": "25",
+            "station_name": "149 ST-3 AVE"
+        },
+        "R054": {
+            "color": "#B933AD",
+            "control_area": "R500",
+            "coords": {
+                "lat": 40.753824,
+                "lng": -73.981966
+            },
+            "division": "IRT",
+            "line_name": "7BDFM",
+            "station_name": "5 AVE-BRYANT PK"
+        },
+        "R055": {
+            "color": "#B933AD",
+            "control_area": "R534",
+            "coords": {
+                "lat": 40.759578,
+                "lng": -73.830056
+            },
+            "division": "IRT",
+            "line_name": "7",
+            "station_name": "MAIN ST"
+        },
+        "R056": {
+            "color": "#EE352E",
+            "control_area": "R609",
+            "coords": {
+                "lat": 40.688269,
+                "lng": -73.980453
+            },
+            "division": "IRT",
+            "line_name": "2345",
+            "station_name": "NEVINS ST"
+        },
+        "R057": {
+            "color": "#EE352E",
+            "control_area": "R610",
+            "coords": {
+                "lat": 40.684063,
+                "lng": -73.977417
+            },
+            "division": "IRT",
+            "line_name": "2345BDNQR",
+            "station_name": "ATLANTIC AVE"
+        },
+        "R058": {
+            "color": "#EE352E",
+            "control_area": "R618",
+            "coords": {
+                "lat": 40.680801,
+                "lng": -73.975132
+            },
+            "division": "IRT",
+            "line_name": "23",
+            "station_name": "BERGEN ST"
+        },
+        "R059": {
+            "color": "#EE352E",
+            "control_area": "R619",
+            "coords": {
+                "lat": 40.675219,
+                "lng": -73.971012
+            },
+            "division": "IRT",
+            "line_name": "23",
+            "station_name": "GRAND ARMY PLAZ"
+        },
+        "R060": {
+            "color": "#EE352E",
+            "control_area": "R621",
+            "coords": {
+                "lat": 40.672013,
+                "lng": -73.96436
+            },
+            "division": "IRT",
+            "line_name": "23",
+            "station_name": "EASTERN PKWY"
+        },
+        "R061": {
+            "color": "#EE352E",
+            "control_area": "R623",
+            "coords": {
+                "lat": 40.669735,
+                "lng": -73.950455
+            },
+            "division": "IRT",
+            "line_name": "3",
+            "station_name": "NOSTRAND AVE"
+        },
+        "R062": {
+            "color": "#EE352E",
+            "control_area": "R625",
+            "coords": {
+                "lat": 40.669279,
+                "lng": -73.932967
+            },
+            "division": "IRT",
+            "line_name": "34",
+            "station_name": "CROWN HTS-UTICA"
+        },
+        "R063": {
+            "color": "#EE352E",
+            "control_area": "R627",
+            "coords": {
+                "lat": 40.664591,
+                "lng": -73.922668
+            },
+            "division": "IRT",
+            "line_name": "3",
+            "station_name": "SUTTER AVE"
+        },
+        "R064": {
+            "color": "#EE352E",
+            "control_area": "R628",
+            "coords": {
+                "lat": 40.661466,
+                "lng": -73.916316
+            },
+            "division": "IRT",
+            "line_name": "3",
+            "station_name": "SARATOGA AVE"
+        },
+        "R065": {
+            "color": "#EE352E",
+            "control_area": "R629",
+            "coords": {
+                "lat": 40.662541,
+                "lng": -73.908763
+            },
+            "division": "IRT",
+            "line_name": "3",
+            "station_name": "ROCKAWAY AVE"
+        },
+        "R066": {
+            "color": "#EE352E",
+            "control_area": "R630",
+            "coords": {
+                "lat": 40.663419,
+                "lng": -73.902454
+            },
+            "division": "IRT",
+            "line_name": "3",
+            "station_name": "JUNIUS ST"
+        },
+        "R067": {
+            "color": "#EE352E",
+            "control_area": "R632",
+            "coords": {
+                "lat": 40.664884,
+                "lng": -73.894258
+            },
+            "division": "IRT",
+            "line_name": "3",
+            "station_name": "PENNSYLVANIA AV"
+        },
+        "R068": {
+            "color": "#EE352E",
+            "control_area": "R633",
+            "coords": {
+                "lat": 40.665405,
+                "lng": -73.889451
+            },
+            "division": "IRT",
+            "line_name": "3",
+            "station_name": "VAN SICLEN AVE"
+        },
+        "R069": {
+            "color": "#EE352E",
+            "control_area": "R634",
+            "coords": {
+                "lat": 40.666252,
+                "lng": -73.884087
+            },
+            "division": "IRT",
+            "line_name": "3",
+            "station_name": "NEW LOTS AVE"
+        },
+        "R072": {
+            "color": "#B933AD",
+            "control_area": "R550",
+            "coords": {
+                "lat": 40.754963,
+                "lng": -74.001017
+            },
+            "division": "IRT",
+            "line_name": "7",
+            "station_name": "34 ST-HUDSON YD"
+        },
+        "R076": {
+            "color": "#00933C",
+            "control_area": "MCC07",
+            "coords": {
+                "lat": 40.704591,
+                "lng": -74.013273
+            },
+            "division": "IRT",
+            "line_name": "45",
+            "station_name": "2 BDWY CUST SRV"
+        },
+        "R079": {
+            "color": "#FCCC0A",
+            "control_area": "A007",
+            "coords": {
+                "lat": 40.764909,
+                "lng": -73.973372
+            },
+            "division": "BMT",
+            "line_name": "NQR",
+            "station_name": "5 AVE-59 ST"
+        },
+        "R080": {
+            "color": "#FCCC0A",
+            "control_area": "A011",
+            "coords": {
+                "lat": 40.764755,
+                "lng": -73.980646
+            },
+            "division": "BMT",
+            "line_name": "NQR",
+            "station_name": "57 ST-7 AVE"
+        },
+        "R081": {
+            "color": "#FCCC0A",
+            "control_area": "A016",
+            "coords": {
+                "lat": 40.760139,
+                "lng": -73.984112
+            },
+            "division": "BMT",
+            "line_name": "NQR",
+            "station_name": "49 ST-7 AVE"
+        },
+        "R082": {
+            "color": "#FCCC0A",
+            "control_area": "A027",
+            "coords": {
+                "lat": 40.745574,
+                "lng": -73.988682
+            },
+            "division": "BMT",
+            "line_name": "NR",
+            "station_name": "28 ST-BROADWAY"
+        },
+        "R083": {
+            "color": "#FCCC0A",
+            "control_area": "A030",
+            "coords": {
+                "lat": 40.741006,
+                "lng": -73.989315
+            },
+            "division": "BMT",
+            "line_name": "NR",
+            "station_name": "23 ST-5 AVE"
+        },
+        "R084": {
+            "color": "#EE352E",
+            "control_area": "R158",
+            "coords": {
+                "lat": 40.76811,
+                "lng": -73.981891
+            },
+            "division": "IRT",
+            "line_name": "1ABCD",
+            "station_name": "59 ST-COLUMBUS"
+        },
+        "R085": {
+            "color": "#FCCC0A",
+            "control_area": "A039",
+            "coords": {
+                "lat": 40.730348,
+                "lng": -73.992705
+            },
+            "division": "BMT",
+            "line_name": "NR",
+            "station_name": "8 ST-B'WAY NYU"
+        },
+        "R086": {
+            "color": "#FCCC0A",
+            "control_area": "A042",
+            "coords": {
+                "lat": 40.724332,
+                "lng": -73.997684
+            },
+            "division": "BMT",
+            "line_name": "NR",
+            "station_name": "PRINCE ST-B'WAY"
+        },
+        "R087": {
+            "color": "#FCCC0A",
+            "control_area": "A047",
+            "coords": {
+                "lat": 40.713086,
+                "lng": -74.007232
+            },
+            "division": "BMT",
+            "line_name": "R",
+            "station_name": "MURRAY ST-B'WAY"
+        },
+        "R088": {
+            "color": "#FCCC0A",
+            "control_area": "A053",
+            "coords": {
+                "lat": 40.710662,
+                "lng": -74.011052
+            },
+            "division": "BMT",
+            "line_name": "R",
+            "station_name": "CORTLANDT ST"
+        },
+        "R089": {
+            "color": "#FCCC0A",
+            "control_area": "C004",
+            "coords": {
+                "lat": 40.692182,
+                "lng": -73.985935
+            },
+            "division": "BMT",
+            "line_name": "R",
+            "station_name": "JAY ST-METROTEC"
+        },
+        "R090": {
+            "color": "#FCCC0A",
+            "control_area": "R510",
+            "coords": {
+                "lat": 40.753076,
+                "lng": -73.93271
+            },
+            "division": "BMT",
+            "line_name": "NQ",
+            "station_name": "BEEBE-39 AVE"
+        },
+        "R091": {
+            "color": "#FCCC0A",
+            "control_area": "R511",
+            "coords": {
+                "lat": 40.756977,
+                "lng": -73.929373
+            },
+            "division": "BMT",
+            "line_name": "NQ",
+            "station_name": "WASHINGTON-36 A"
+        },
+        "R092": {
+            "color": "#FCCC0A",
+            "control_area": "R512",
+            "coords": {
+                "lat": 40.761959,
+                "lng": -73.925382
+            },
+            "division": "BMT",
+            "line_name": "NQ",
+            "station_name": "BROADWAY-31 ST"
+        },
+        "R093": {
+            "color": "#FCCC0A",
+            "control_area": "R513",
+            "coords": {
+                "lat": 40.766843,
+                "lng": -73.921423
+            },
+            "division": "BMT",
+            "line_name": "NQ",
+            "station_name": "GRAND-30 AVE"
+        },
+        "R094": {
+            "color": "#FCCC0A",
+            "control_area": "R514",
+            "coords": {
+                "lat": 40.770426,
+                "lng": -73.917614
+            },
+            "division": "BMT",
+            "line_name": "NQ",
+            "station_name": "HOYT ST-ASTORIA"
+        },
+        "R095": {
+            "color": "#FCCC0A",
+            "control_area": "R515",
+            "coords": {
+                "lat": 40.774984,
+                "lng": -73.912067
+            },
+            "division": "BMT",
+            "line_name": "NQ",
+            "station_name": "DITMARS BL-31 S"
+        },
+        "R096": {
+            "color": "#B933AD",
+            "control_area": "R526",
+            "coords": {
+                "lat": 40.747647,
+                "lng": -73.883786
+            },
+            "division": "IRT",
+            "line_name": "7",
+            "station_name": "82 ST-JACKSON H"
+        },
+        "R097": {
+            "color": "#B933AD",
+            "control_area": "R528",
+            "coords": {
+                "lat": 40.749143,
+                "lng": -73.869452
+            },
+            "division": "IRT",
+            "line_name": "7",
+            "station_name": "JUNCTION BLVD"
+        },
+        "R098": {
+            "color": "#FF6319",
+            "control_area": "B015",
+            "coords": {
+                "lat": 40.650494,
+                "lng": -73.962836
+            },
+            "division": "BMT",
+            "line_name": "BQ",
+            "station_name": "CHURCH AVE"
+        },
+        "R099": {
+            "color": "#FF6319",
+            "control_area": "C008",
+            "coords": {
+                "lat": 40.690612,
+                "lng": -73.981848
+            },
+            "division": "BMT",
+            "line_name": "BDNQR",
+            "station_name": "DEKALB AVE"
+        },
+        "R100": {
+            "color": "#FF6319",
+            "control_area": "K026",
+            "coords": {
+                "lat": 40.711353,
+                "lng": -73.88958
+            },
+            "division": "BMT",
+            "line_name": "M",
+            "station_name": "METROPOLITAN AV"
+        },
+        "R101": {
+            "color": "#2850AD",
+            "control_area": "N019",
+            "coords": {
+                "lat": 40.824787,
+                "lng": -73.944232
+            },
+            "division": "IND",
+            "line_name": "ABCD",
+            "station_name": "145 ST"
+        },
+        "R102": {
+            "color": "#2850AD",
+            "control_area": "N025",
+            "coords": {
+                "lat": 40.811056,
+                "lng": -73.952386
+            },
+            "division": "IND",
+            "line_name": "ACBD",
+            "station_name": "125 ST"
+        },
+        "R103": {
+            "color": "#2850AD",
+            "control_area": "N124",
+            "coords": {
+                "lat": 40.678848,
+                "lng": -73.904139
+            },
+            "division": "IND",
+            "line_name": "ACJLZ",
+            "station_name": "BROADWAY-ENY"
+        },
+        "R104": {
+            "color": "#FF6319",
+            "control_area": "N206",
+            "coords": {
+                "lat": 40.833773,
+                "lng": -73.91843
+            },
+            "division": "IND",
+            "line_name": "BD",
+            "station_name": "167 ST"
+        },
+        "R105": {
+            "color": "#EE352E",
+            "control_area": "R128",
+            "coords": {
+                "lat": 40.738007,
+                "lng": -73.998381
+            },
+            "division": "IRT",
+            "line_name": "123FLM",
+            "station_name": "14 ST"
+        },
+        "R106": {
+            "color": "#00933C",
+            "control_area": "R418",
+            "coords": {
+                "lat": 40.834255,
+                "lng": -73.851222
+            },
+            "division": "IRT",
+            "line_name": "6",
+            "station_name": "CASTLE HILL AVE"
+        },
+        "R107": {
+            "color": "#00933C",
+            "control_area": "R420",
+            "coords": {
+                "lat": 40.839892,
+                "lng": -73.842952
+            },
+            "division": "IRT",
+            "line_name": "6",
+            "station_name": "WESTCHESTER SQ"
+        },
+        "R108": {
+            "color": "#EE352E",
+            "control_area": "R604",
+            "coords": {
+                "lat": 40.692404,
+                "lng": -73.990151
+            },
+            "division": "IRT",
+            "line_name": "2345R",
+            "station_name": "BOROUGH HALL/CT"
+        },
+        "R109": {
+            "color": "#EE352E",
+            "control_area": "R639",
+            "coords": {
+                "lat": 40.650843,
+                "lng": -73.949575
+            },
+            "division": "IRT",
+            "line_name": "25",
+            "station_name": "CHURCH AVE"
+        },
+        "R110": {
+            "color": "#EE352E",
+            "control_area": "R647",
+            "coords": {
+                "lat": 40.632836,
+                "lng": -73.947642
+            },
+            "division": "IRT",
+            "line_name": "25",
+            "station_name": "FLATBUSH AVE"
+        },
+        "R111": {
+            "color": "#2850AD",
+            "control_area": "N077",
+            "coords": {
+                "lat": 40.745924,
+                "lng": -73.998005
+            },
+            "division": "IND",
+            "line_name": "CE",
+            "station_name": "23 ST"
+        },
+        "R112": {
+            "color": "#FF6319",
+            "control_area": "N218",
+            "coords": {
+                "lat": 40.862803,
+                "lng": -73.901034
+            },
+            "division": "IND",
+            "line_name": "BD",
+            "station_name": "FORDHAM ROAD"
+        },
+        "R113": {
+            "color": "#FF6319",
+            "control_area": "N300",
+            "coords": {
+                "lat": 40.762877,
+                "lng": -73.98159
+            },
+            "division": "IND",
+            "line_name": "BDE",
+            "station_name": "7 AVE-53 ST"
+        },
+        "R114": {
+            "color": "#FF6319",
+            "control_area": "N339",
+            "coords": {
+                "lat": 40.707564,
+                "lng": -73.803326
+            },
+            "division": "IND",
+            "line_name": "F",
+            "station_name": "PARSONS BLVD"
+        },
+        "R115": {
+            "color": "#FF6319",
+            "control_area": "N340A",
+            "coords": {
+                "lat": 40.710459,
+                "lng": -73.7936
+            },
+            "division": "IND",
+            "line_name": "F",
+            "station_name": "169 ST"
+        },
+        "R116": {
+            "color": "#EE352E",
+            "control_area": "R155",
+            "coords": {
+                "lat": 40.761675,
+                "lng": -73.983908
+            },
+            "division": "IRT",
+            "line_name": "1",
+            "station_name": "50 ST"
+        },
+        "R117": {
+            "color": "#EE352E",
+            "control_area": "R197",
+            "coords": {
+                "lat": 40.889185,
+                "lng": -73.898549
+            },
+            "division": "IRT",
+            "line_name": "1",
+            "station_name": "242 ST"
+        },
+        "R118": {
+            "color": "#996633",
+            "control_area": "A066",
+            "coords": {
+                "lat": 40.718233,
+                "lng": -74.000323
+            },
+            "division": "BMT",
+            "line_name": "JNQRZ6",
+            "station_name": "CANAL ST"
+        },
+        "R119": {
+            "color": "#00933C",
+            "control_area": "R289",
+            "coords": {
+                "lat": 40.862941,
+                "lng": -73.901199
+            },
+            "division": "IRT",
+            "line_name": "4",
+            "station_name": "FORDHAM ROAD"
+        },
+        "R120": {
+            "color": "#00933C",
+            "control_area": "R415",
+            "coords": {
+                "lat": 40.829495,
+                "lng": -73.874559
+            },
+            "division": "IRT",
+            "line_name": "6",
+            "station_name": "MORRISON AVE"
+        },
+        "R121": {
+            "color": "#B933AD",
+            "control_area": "R509",
+            "coords": {
+                "lat": 40.750508,
+                "lng": -73.940177
+            },
+            "division": "IRT",
+            "line_name": "7NQ",
+            "station_name": "QUEENSBORO PLZ"
+        },
+        "R122": {
+            "color": "#B933AD",
+            "control_area": "R527",
+            "coords": {
+                "lat": 40.748541,
+                "lng": -73.876791
+            },
+            "division": "IRT",
+            "line_name": "7",
+            "station_name": "90 ST-ELMHURST"
+        },
+        "R123": {
+            "color": "#EE352E",
+            "control_area": "R622",
+            "coords": {
+                "lat": 40.670711,
+                "lng": -73.958051
+            },
+            "division": "IRT",
+            "line_name": "2345S",
+            "station_name": "FRANKLIN AVE"
+        },
+        "R124": {
+            "color": "#EE352E",
+            "control_area": "R624",
+            "coords": {
+                "lat": 40.669409,
+                "lng": -73.942173
+            },
+            "division": "IRT",
+            "line_name": "3",
+            "station_name": "KINGSTON AVE"
+        },
+        "R125": {
+            "color": "#996633",
+            "control_area": "A085",
+            "coords": {
+                "lat": 40.706539,
+                "lng": -74.011052
+            },
+            "division": "BMT",
+            "line_name": "JZ",
+            "station_name": "BROAD ST"
+        },
+        "R126": {
+            "color": "#2850AD",
+            "control_area": "N011",
+            "coords": {
+                "lat": 40.847369,
+                "lng": -73.939683
+            },
+            "division": "IND",
+            "line_name": "A",
+            "station_name": "175 ST"
+        },
+        "R127": {
+            "color": "#2850AD",
+            "control_area": "N102",
+            "coords": {
+                "lat": 40.692338,
+                "lng": -73.987342
+            },
+            "division": "IND",
+            "line_name": "ACF",
+            "station_name": "JAY ST-METROTEC"
+        },
+        "R128": {
+            "color": "#FF6319",
+            "control_area": "N338",
+            "coords": {
+                "lat": 40.705416,
+                "lng": -73.810562
+            },
+            "division": "IND",
+            "line_name": "F",
+            "station_name": "SUTPHIN BLVD"
+        },
+        "R129": {
+            "color": "#FF6319",
+            "control_area": "N533",
+            "coords": {
+                "lat": 40.686154,
+                "lng": -73.990881
+            },
+            "division": "IND",
+            "line_name": "FG",
+            "station_name": "BERGEN ST"
+        },
+        "R130": {
+            "color": "#FF6319",
+            "control_area": "N558",
+            "coords": {
+                "lat": 40.603234,
+                "lng": -73.972342
+            },
+            "division": "IND",
+            "line_name": "F",
+            "station_name": "KINGS HIGHWAY"
+        },
+        "R131": {
+            "color": "#00933C",
+            "control_area": "R226A",
+            "coords": {
+                "lat": 40.740088,
+                "lng": -73.986429
+            },
+            "division": "IRT",
+            "line_name": "6",
+            "station_name": "23 ST"
+        },
+        "R132": {
+            "color": "#00933C",
+            "control_area": "R258",
+            "coords": {
+                "lat": 40.804406,
+                "lng": -73.937452
+            },
+            "division": "IRT",
+            "line_name": "456",
+            "station_name": "125 ST"
+        },
+        "R133": {
+            "color": "#00933C",
+            "control_area": "R293",
+            "coords": {
+                "lat": 40.87963,
+                "lng": -73.884666
+            },
+            "division": "IRT",
+            "line_name": "4",
+            "station_name": "MOSHOLU PARKWAY"
+        },
+        "R134": {
+            "color": "#B933AD",
+            "control_area": "R507",
+            "coords": {
+                "lat": 40.74238,
+                "lng": -73.948889
+            },
+            "division": "IRT",
+            "line_name": "7",
+            "station_name": "HUNTERS PT AVE"
+        },
+        "R135": {
+            "color": "#EE352E",
+            "control_area": "R644",
+            "coords": {
+                "lat": 40.639961,
+                "lng": -73.948352
+            },
+            "division": "IRT",
+            "line_name": "25",
+            "station_name": "NEWKIRK AVE"
+        },
+        "R136": {
+            "color": "#FF6319",
+            "control_area": "B028",
+            "coords": {
+                "lat": 40.58681,
+                "lng": -73.954167
+            },
+            "division": "BMT",
+            "line_name": "BQ",
+            "station_name": "SHEEPSHEAD BAY"
+        },
+        "R137": {
+            "color": "#A7A9AC",
+            "control_area": "H027",
+            "coords": {
+                "lat": 40.699707,
+                "lng": -73.91181
+            },
+            "division": "BMT",
+            "line_name": "LM",
+            "station_name": "MYRTLE AVE"
+        },
+        "R138": {
+            "color": "#2850AD",
+            "control_area": "N083",
+            "coords": {
+                "lat": 40.732251,
+                "lng": -74.000559
+            },
+            "division": "IND",
+            "line_name": "ABCDEFM",
+            "station_name": "W 4 ST-WASH SQ"
+        },
+        "R139": {
+            "color": "#2850AD",
+            "control_area": "N090",
+            "coords": {
+                "lat": 40.720852,
+                "lng": -74.005237
+            },
+            "division": "IND",
+            "line_name": "ACE",
+            "station_name": "CANAL ST"
+        },
+        "R140": {
+            "color": "#2850AD",
+            "control_area": "N310",
+            "coords": {
+                "lat": 40.748948,
+                "lng": -73.937194
+            },
+            "division": "IND",
+            "line_name": "EMR",
+            "station_name": "QUEENS PLAZA"
+        },
+        "R141": {
+            "color": "#2850AD",
+            "control_area": "N333B",
+            "coords": {
+                "lat": 40.721681,
+                "lng": -73.84439
+            },
+            "division": "IND",
+            "line_name": "EFMR",
+            "station_name": "FOREST HILLS-71"
+        },
+        "R142": {
+            "color": "#FF6319",
+            "control_area": "N526",
+            "coords": {
+                "lat": 40.71838,
+                "lng": -73.987813
+            },
+            "division": "IND",
+            "line_name": "FJMZ",
+            "station_name": "DELANCEY ST"
+        },
+        "R143": {
+            "color": "#00933C",
+            "control_area": "R230",
+            "coords": {
+                "lat": 40.743095,
+                "lng": -73.984251
+            },
+            "division": "IRT",
+            "line_name": "6",
+            "station_name": "28 ST"
+        },
+        "R144": {
+            "color": "#00933C",
+            "control_area": "R251",
+            "coords": {
+                "lat": 40.785822,
+                "lng": -73.95097
+            },
+            "division": "IRT",
+            "line_name": "6",
+            "station_name": "96 ST"
+        },
+        "R145": {
+            "color": "#EE352E",
+            "control_area": "R336",
+            "coords": {
+                "lat": 40.903085,
+                "lng": -73.850591
+            },
+            "division": "IRT",
+            "line_name": "2",
+            "station_name": "WAKEFIELD-241"
+        },
+        "R146": {
+            "color": "#00933C",
+            "control_area": "R412",
+            "coords": {
+                "lat": 40.820889,
+                "lng": -73.890567
+            },
+            "division": "IRT",
+            "line_name": "6",
+            "station_name": "HUNTS POINT AVE"
+        },
+        "R147": {
+            "color": "#B933AD",
+            "control_area": "R523",
+            "coords": {
+                "lat": 40.745623,
+                "lng": -73.902969
+            },
+            "division": "IRT",
+            "line_name": "7",
+            "station_name": "61 ST/WOODSIDE"
+        },
+        "R148": {
+            "color": "#FF6319",
+            "control_area": "B014",
+            "coords": {
+                "lat": 40.655053,
+                "lng": -73.961227
+            },
+            "division": "BMT",
+            "line_name": "BQ",
+            "station_name": "PARKSIDE AVE"
+        },
+        "R149": {
+            "color": "#FF6319",
+            "control_area": "B019",
+            "coords": {
+                "lat": 40.635059,
+                "lng": -73.962793
+            },
+            "division": "BMT",
+            "line_name": "BQ",
+            "station_name": "NEWKIRK AVE"
+        },
+        "R150": {
+            "color": "#FF6319",
+            "control_area": "B025",
+            "coords": {
+                "lat": 40.599307,
+                "lng": -73.955916
+            },
+            "division": "BMT",
+            "line_name": "BQ",
+            "station_name": "AVE U"
+        },
+        "R151": {
+            "color": "#FF6319",
+            "control_area": "G009",
+            "coords": {
+                "lat": 40.577423,
+                "lng": -73.981225
+            },
+            "division": "BMT",
+            "line_name": "DFNQ",
+            "station_name": "STILLWELL AVE"
+        },
+        "R152": {
+            "color": "#A7A9AC",
+            "control_area": "H041",
+            "coords": {
+                "lat": 40.64666,
+                "lng": -73.901832
+            },
+            "division": "BMT",
+            "line_name": "L",
+            "station_name": "ROCKAWAY PKY"
+        },
+        "R153": {
+            "color": "#2850AD",
+            "control_area": "N120A",
+            "coords": {
+                "lat": 40.679279,
+                "lng": -73.930585
+            },
+            "division": "IND",
+            "line_name": "AC",
+            "station_name": "UTICA AVE"
+        },
+        "R154": {
+            "color": "#FF6319",
+            "control_area": "N214",
+            "coords": {
+                "lat": 40.850307,
+                "lng": -73.905244
+            },
+            "division": "IND",
+            "line_name": "BD",
+            "station_name": "TREMONT AVE"
+        },
+        "R155": {
+            "color": "#FF6319",
+            "control_area": "N220",
+            "coords": {
+                "lat": 40.866974,
+                "lng": -73.893485
+            },
+            "division": "IND",
+            "line_name": "BD",
+            "station_name": "KINGSBRIDGE RD"
+        },
+        "R156": {
+            "color": "#FF6319",
+            "control_area": "N223",
+            "coords": {
+                "lat": 40.873026,
+                "lng": -73.886919
+            },
+            "division": "IND",
+            "line_name": "BD",
+            "station_name": "BEDFORD PARK BL"
+        },
+        "R157": {
+            "color": "#FF6319",
+            "control_area": "N225",
+            "coords": {
+                "lat": 40.874827,
+                "lng": -73.878872
+            },
+            "division": "IND",
+            "line_name": "D",
+            "station_name": "NORWOOD-205 ST"
+        },
+        "R158": {
+            "color": "#2850AD",
+            "control_area": "N335",
+            "coords": {
+                "lat": 40.714444,
+                "lng": -73.830979
+            },
+            "division": "IND",
+            "line_name": "EF",
+            "station_name": "UNION TPK-KEW G"
+        },
+        "R159": {
+            "color": "#EE352E",
+            "control_area": "R173",
+            "coords": {
+                "lat": 40.80819,
+                "lng": -73.964124
+            },
+            "division": "IRT",
+            "line_name": "1",
+            "station_name": "116 ST-COLUMBIA"
+        },
+        "R160": {
+            "color": "#00933C",
+            "control_area": "R220",
+            "coords": {
+                "lat": 40.730056,
+                "lng": -73.991042
+            },
+            "division": "IRT",
+            "line_name": "6",
+            "station_name": "ASTOR PLACE"
+        },
+        "R161": {
+            "color": "#00933C",
+            "control_area": "R290",
+            "coords": {
+                "lat": 40.867899,
+                "lng": -73.897326
+            },
+            "division": "IRT",
+            "line_name": "4",
+            "station_name": "KINGSBRIDGE RD"
+        },
+        "R162": {
+            "color": "#00933C",
+            "control_area": "R414",
+            "coords": {
+                "lat": 40.828894,
+                "lng": -73.879559
+            },
+            "division": "IRT",
+            "line_name": "6",
+            "station_name": "ELDER AVE"
+        },
+        "R163": {
+            "color": "#FF6319",
+            "control_area": "N513",
+            "coords": {
+                "lat": 40.737348,
+                "lng": -73.9969
+            },
+            "division": "IND",
+            "line_name": "FLM123",
+            "station_name": "14 ST-6 AVE"
+        },
+        "R164": {
+            "color": "#EE352E",
+            "control_area": "R160",
+            "coords": {
+                "lat": 40.773424,
+                "lng": -73.982234
+            },
+            "division": "IRT",
+            "line_name": "1",
+            "station_name": "66 ST-LINCOLN"
+        },
+        "R166": {
+            "color": "#EE352E",
+            "control_area": "R163",
+            "coords": {
+                "lat": 40.783872,
+                "lng": -73.979938
+            },
+            "division": "IRT",
+            "line_name": "1",
+            "station_name": "79 ST"
+        },
+        "R167": {
+            "color": "#EE352E",
+            "control_area": "R166",
+            "coords": {
+                "lat": 40.788844,
+                "lng": -73.97599
+            },
+            "division": "IRT",
+            "line_name": "1",
+            "station_name": "86 ST"
+        },
+        "R168": {
+            "color": "#EE352E",
+            "control_area": "R168",
+            "coords": {
+                "lat": 40.79388,
+                "lng": -73.972363
+            },
+            "division": "IRT",
+            "line_name": "123",
+            "station_name": "96 ST"
+        },
+        "R169": {
+            "color": "#EE352E",
+            "control_area": "R175",
+            "coords": {
+                "lat": 40.821994,
+                "lng": -73.953674
+            },
+            "division": "IRT",
+            "line_name": "1",
+            "station_name": "137 ST-CITY COL"
+        },
+        "R170": {
+            "color": "#A7A9AC",
+            "control_area": "R221",
+            "coords": {
+                "lat": 40.734836,
+                "lng": -73.990688
+            },
+            "division": "IRT",
+            "line_name": "LNQR456",
+            "station_name": "14 ST-UNION SQ"
+        },
+        "R171": {
+            "color": "#FF6319",
+            "control_area": "B004",
+            "coords": {
+                "lat": 40.677172,
+                "lng": -73.972514
+            },
+            "division": "BMT",
+            "line_name": "BQ",
+            "station_name": "7 AVE"
+        },
+        "R172": {
+            "color": "#FF6319",
+            "control_area": "B031",
+            "coords": {
+                "lat": 40.577961,
+                "lng": -73.961806
+            },
+            "division": "BMT",
+            "line_name": "BQ",
+            "station_name": "BRIGHTON BEACH"
+        },
+        "R173": {
+            "color": "#2850AD",
+            "control_area": "N001",
+            "coords": {
+                "lat": 40.868045,
+                "lng": -73.919921
+            },
+            "division": "IND",
+            "line_name": "A",
+            "station_name": "INWOOD-207 ST"
+        },
+        "R174": {
+            "color": "#2850AD",
+            "control_area": "N009",
+            "coords": {
+                "lat": 40.851686,
+                "lng": -73.937967
+            },
+            "division": "IND",
+            "line_name": "A",
+            "station_name": "181 ST"
+        },
+        "R175": {
+            "color": "#2850AD",
+            "control_area": "N078",
+            "coords": {
+                "lat": 40.740388,
+                "lng": -74.002104
+            },
+            "division": "IND",
+            "line_name": "ACEL",
+            "station_name": "14 ST"
+        },
+        "R176": {
+            "color": "#00933C",
+            "control_area": "R232A",
+            "coords": {
+                "lat": 40.746119,
+                "lng": -73.981826
+            },
+            "division": "IRT",
+            "line_name": "6",
+            "station_name": "33 ST"
+        },
+        "R177": {
+            "color": "#00933C",
+            "control_area": "R246",
+            "coords": {
+                "lat": 40.768143,
+                "lng": -73.964016
+            },
+            "division": "IRT",
+            "line_name": "6",
+            "station_name": "68ST-HUNTER COL"
+        },
+        "R178": {
+            "color": "#00933C",
+            "control_area": "R247",
+            "coords": {
+                "lat": 40.773636,
+                "lng": -73.959875
+            },
+            "division": "IRT",
+            "line_name": "6",
+            "station_name": "77 ST"
+        },
+        "R179": {
+            "color": "#00933C",
+            "control_area": "R249",
+            "coords": {
+                "lat": 40.779485,
+                "lng": -73.955541
+            },
+            "division": "IRT",
+            "line_name": "456",
+            "station_name": "86 ST"
+        },
+        "R180": {
+            "color": "#00933C",
+            "control_area": "R252",
+            "coords": {
+                "lat": 40.790582,
+                "lng": -73.947473
+            },
+            "division": "IRT",
+            "line_name": "6",
+            "station_name": "103 ST"
+        },
+        "R181": {
+            "color": "#00933C",
+            "control_area": "R254",
+            "coords": {
+                "lat": 40.795066,
+                "lng": -73.944297
+            },
+            "division": "IRT",
+            "line_name": "6",
+            "station_name": "110 ST"
+        },
+        "R182": {
+            "color": "#00933C",
+            "control_area": "R257",
+            "coords": {
+                "lat": 40.798574,
+                "lng": -73.941593
+            },
+            "division": "IRT",
+            "line_name": "6",
+            "station_name": "116 ST"
+        },
+        "R183": {
+            "color": "#00933C",
+            "control_area": "R291",
+            "coords": {
+                "lat": 40.873399,
+                "lng": -73.890084
+            },
+            "division": "IRT",
+            "line_name": "4",
+            "station_name": "BEDFORD PARK BL"
+        },
+        "R184": {
+            "color": "#FF6319",
+            "control_area": "B018",
+            "coords": {
+                "lat": 40.640905,
+                "lng": -73.963866
+            },
+            "division": "BMT",
+            "line_name": "BQ",
+            "station_name": "CORTELYOU ROAD"
+        },
+        "R185": {
+            "color": "#2850AD",
+            "control_area": "N003",
+            "coords": {
+                "lat": 40.865286,
+                "lng": -73.92698
+            },
+            "division": "IND",
+            "line_name": "A",
+            "station_name": "DYCKMAN-200 ST"
+        },
+        "R186": {
+            "color": "#FF6319",
+            "control_area": "N042",
+            "coords": {
+                "lat": 40.785822,
+                "lng": -73.968952
+            },
+            "division": "IND",
+            "line_name": "BC",
+            "station_name": "86 ST"
+        },
+        "R187": {
+            "color": "#FF6319",
+            "control_area": "N045",
+            "coords": {
+                "lat": 40.781435,
+                "lng": -73.972149
+            },
+            "division": "IND",
+            "line_name": "BC",
+            "station_name": "81 ST-MUSEUM"
+        },
+        "R188": {
+            "color": "#2850AD",
+            "control_area": "N056",
+            "coords": {
+                "lat": 40.762439,
+                "lng": -73.985989
+            },
+            "division": "IND",
+            "line_name": "CE",
+            "station_name": "50 ST"
+        },
+        "R189": {
+            "color": "#EE352E",
+            "control_area": "R126",
+            "coords": {
+                "lat": 40.733405,
+                "lng": -74.002898
+            },
+            "division": "IRT",
+            "line_name": "1",
+            "station_name": "CHRISTOPHER ST"
+        },
+        "R190": {
+            "color": "#EE352E",
+            "control_area": "R132",
+            "coords": {
+                "lat": 40.744071,
+                "lng": -73.995624
+            },
+            "division": "IRT",
+            "line_name": "1",
+            "station_name": "23 ST"
+        },
+        "R191": {
+            "color": "#EE352E",
+            "control_area": "R170",
+            "coords": {
+                "lat": 40.799354,
+                "lng": -73.968329
+            },
+            "division": "IRT",
+            "line_name": "1",
+            "station_name": "103 ST"
+        },
+        "R192": {
+            "color": "#EE352E",
+            "control_area": "R171",
+            "coords": {
+                "lat": 40.804032,
+                "lng": -73.966742
+            },
+            "division": "IRT",
+            "line_name": "1",
+            "station_name": "110 ST-CATHEDRL"
+        },
+        "R193": {
+            "color": "#EE352E",
+            "control_area": "R179",
+            "coords": {
+                "lat": 40.833879,
+                "lng": -73.944726
+            },
+            "division": "IRT",
+            "line_name": "1",
+            "station_name": "157 ST"
+        },
+        "R194": {
+            "color": "#00933C",
+            "control_area": "R217A",
+            "coords": {
+                "lat": 40.725665,
+                "lng": -73.995645
+            },
+            "division": "IRT",
+            "line_name": "6DF",
+            "station_name": "BLEECKER ST"
+        },
+        "R195": {
+            "color": "#00933C",
+            "control_area": "R262B",
+            "coords": {
+                "lat": 40.827888,
+                "lng": -73.925736
+            },
+            "division": "IRT",
+            "line_name": "4BD",
+            "station_name": "161 ST-YANKEE"
+        },
+        "R196": {
+            "color": "#FF6319",
+            "control_area": "B013",
+            "coords": {
+                "lat": 40.661596,
+                "lng": -73.962193
+            },
+            "division": "BMT",
+            "line_name": "BQS",
+            "station_name": "PROSPECT PARK"
+        },
+        "R197": {
+            "color": "#FF6319",
+            "control_area": "C018",
+            "coords": {
+                "lat": 40.65515,
+                "lng": -74.003477
+            },
+            "division": "BMT",
+            "line_name": "DNR",
+            "station_name": "36 ST"
+        },
+        "R198": {
+            "color": "#2850AD",
+            "control_area": "N117",
+            "coords": {
+                "lat": 40.68041,
+                "lng": -73.950326
+            },
+            "division": "IND",
+            "line_name": "AC",
+            "station_name": "NOSTRAND AVE"
+        },
+        "R199": {
+            "color": "#2850AD",
+            "control_area": "N118",
+            "coords": {
+                "lat": 40.679921,
+                "lng": -73.940858
+            },
+            "division": "IND",
+            "line_name": "C",
+            "station_name": "KINGSTON-THROOP"
+        },
+        "R200": {
+            "color": "#2850AD",
+            "control_area": "N128",
+            "coords": {
+                "lat": 40.675382,
+                "lng": -73.87207
+            },
+            "division": "IND",
+            "line_name": "AC",
+            "station_name": "EUCLID AVE"
+        },
+        "R201": {
+            "color": "#FF6319",
+            "control_area": "N329A",
+            "coords": {
+                "lat": 40.73308,
+                "lng": -73.869259
+            },
+            "division": "IND",
+            "line_name": "MR",
+            "station_name": "WOODHAVEN BLVD"
+        },
+        "R202": {
+            "color": "#FF6319",
+            "control_area": "N330C",
+            "coords": {
+                "lat": 40.729869,
+                "lng": -73.86161
+            },
+            "division": "IND",
+            "line_name": "MR",
+            "station_name": "63 DR-REGO PARK"
+        },
+        "R203": {
+            "color": "#FF6319",
+            "control_area": "N509",
+            "coords": {
+                "lat": 40.742868,
+                "lng": -73.99277
+            },
+            "division": "IND",
+            "line_name": "FM",
+            "station_name": "23 ST-6 AVE"
+        },
+        "R204": {
+            "color": "#FF6319",
+            "control_area": "N545",
+            "coords": {
+                "lat": 40.644039,
+                "lng": -73.979541
+            },
+            "division": "IND",
+            "line_name": "FG",
+            "station_name": "CHURCH AVE"
+        },
+        "R205": {
+            "color": "#EE352E",
+            "control_area": "R260",
+            "coords": {
+                "lat": 40.818429,
+                "lng": -73.926927
+            },
+            "division": "IRT",
+            "line_name": "245",
+            "station_name": "149 ST-GR CONC"
+        },
+        "R206": {
+            "color": "#EE352E",
+            "control_area": "R305",
+            "coords": {
+                "lat": 40.808076,
+                "lng": -73.945906
+            },
+            "division": "IRT",
+            "line_name": "23",
+            "station_name": "125 ST"
+        },
+        "R207": {
+            "color": "#EE352E",
+            "control_area": "R307",
+            "coords": {
+                "lat": 40.814459,
+                "lng": -73.940992
+            },
+            "division": "IRT",
+            "line_name": "23",
+            "station_name": "135 ST"
+        },
+        "R208": {
+            "color": "#B933AD",
+            "control_area": "R529",
+            "coords": {
+                "lat": 40.749858,
+                "lng": -73.862672
+            },
+            "division": "IRT",
+            "line_name": "7",
+            "station_name": "103 ST-CORONA"
+        },
+        "R209": {
+            "color": "#EE352E",
+            "control_area": "R636",
+            "coords": {
+                "lat": 40.662752,
+                "lng": -73.950605
+            },
+            "division": "IRT",
+            "line_name": "25",
+            "station_name": "STERLING ST"
+        },
+        "R210": {
+            "color": "#EE352E",
+            "control_area": "R641",
+            "coords": {
+                "lat": 40.645089,
+                "lng": -73.948975
+            },
+            "division": "IRT",
+            "line_name": "25",
+            "station_name": "BEVERLY ROAD"
+        },
+        "R211": {
+            "color": "#FF6319",
+            "control_area": "B024A",
+            "coords": {
+                "lat": 40.608691,
+                "lng": -73.957772
+            },
+            "division": "BMT",
+            "line_name": "BQ",
+            "station_name": "KINGS HIGHWAY"
+        },
+        "R212": {
+            "color": "#FCCC0A",
+            "control_area": "C022",
+            "coords": {
+                "lat": 40.641426,
+                "lng": -74.017972
+            },
+            "division": "BMT",
+            "line_name": "NR",
+            "station_name": "59 ST"
+        },
+        "R213": {
+            "color": "#FCCC0A",
+            "control_area": "C023",
+            "coords": {
+                "lat": 40.634945,
+                "lng": -74.023411
+            },
+            "division": "BMT",
+            "line_name": "R",
+            "station_name": "BAY RIDGE AVE"
+        },
+        "R214": {
+            "color": "#FCCC0A",
+            "control_area": "C024",
+            "coords": {
+                "lat": 40.629702,
+                "lng": -74.025514
+            },
+            "division": "BMT",
+            "line_name": "R",
+            "station_name": "77 ST"
+        },
+        "R215": {
+            "color": "#FCCC0A",
+            "control_area": "C026",
+            "coords": {
+                "lat": 40.622715,
+                "lng": -74.028368
+            },
+            "division": "BMT",
+            "line_name": "R",
+            "station_name": "86 ST"
+        },
+        "R216": {
+            "color": "#FCCC0A",
+            "control_area": "C028",
+            "coords": {
+                "lat": 40.616624,
+                "lng": -74.030964
+            },
+            "division": "BMT",
+            "line_name": "R",
+            "station_name": "BAY RIDGE-95 ST"
+        },
+        "R217": {
+            "color": "#2850AD",
+            "control_area": "N108",
+            "coords": {
+                "lat": 40.688465,
+                "lng": -73.985474
+            },
+            "division": "IND",
+            "line_name": "ACG",
+            "station_name": "HOYT/SCHERMER"
+        },
+        "R218": {
+            "color": "#FF6319",
+            "control_area": "N325A",
+            "coords": {
+                "lat": 40.742445,
+                "lng": -73.882005
+            },
+            "division": "IND",
+            "line_name": "MR",
+            "station_name": "ELMHURST AVE"
+        },
+        "R219": {
+            "color": "#FF6319",
+            "control_area": "N332",
+            "coords": {
+                "lat": 40.726462,
+                "lng": -73.85263
+            },
+            "division": "IND",
+            "line_name": "MR",
+            "station_name": "67 AVE"
+        },
+        "R220": {
+            "color": "#FF6319",
+            "control_area": "N534",
+            "coords": {
+                "lat": 40.680231,
+                "lng": -73.99498
+            },
+            "division": "IND",
+            "line_name": "FG",
+            "station_name": "CARROLL ST"
+        },
+        "R221": {
+            "color": "#00933C",
+            "control_area": "R283",
+            "coords": {
+                "lat": 40.835535,
+                "lng": -73.92138
+            },
+            "division": "IRT",
+            "line_name": "4",
+            "station_name": "167 ST"
+        },
+        "R222": {
+            "color": "#00933C",
+            "control_area": "R417",
+            "coords": {
+                "lat": 40.833246,
+                "lng": -73.860805
+            },
+            "division": "IRT",
+            "line_name": "6",
+            "station_name": "E 177 ST-PARKCH"
+        },
+        "R223": {
+            "color": "#B933AD",
+            "control_area": "R520",
+            "coords": {
+                "lat": 40.743079,
+                "lng": -73.918419
+            },
+            "division": "IRT",
+            "line_name": "7",
+            "station_name": "46 ST-BLISS ST"
+        },
+        "R224": {
+            "color": "#EE352E",
+            "control_area": "R600",
+            "coords": {
+                "lat": 40.697356,
+                "lng": -73.992888
+            },
+            "division": "IRT",
+            "line_name": "23",
+            "station_name": "CLARK ST"
+        },
+        "R225": {
+            "color": "#EE352E",
+            "control_area": "R606",
+            "coords": {
+                "lat": 40.690547,
+                "lng": -73.985066
+            },
+            "division": "IRT",
+            "line_name": "23",
+            "station_name": "HOYT ST"
+        },
+        "R226": {
+            "color": "#00933C",
+            "control_area": "R728",
+            "coords": {
+                "lat": 40.877796,
+                "lng": -73.866341
+            },
+            "division": "IRT",
+            "line_name": "5",
+            "station_name": "GUN HILL ROAD"
+        },
+        "R227": {
+            "color": "#FCCC0A",
+            "control_area": "A054",
+            "coords": {
+                "lat": 40.707222,
+                "lng": -74.013391
+            },
+            "division": "BMT",
+            "line_name": "R",
+            "station_name": "RECTOR ST"
+        },
+        "R228": {
+            "color": "#FF6319",
+            "control_area": "B021",
+            "coords": {
+                "lat": 40.625028,
+                "lng": -73.960819
+            },
+            "division": "BMT",
+            "line_name": "BQ",
+            "station_name": "AVE J"
+        },
+        "R229": {
+            "color": "#FF6319",
+            "control_area": "B022",
+            "coords": {
+                "lat": 40.617568,
+                "lng": -73.95936
+            },
+            "division": "BMT",
+            "line_name": "BQ",
+            "station_name": "AVE M"
+        },
+        "R230": {
+            "color": "#FF6319",
+            "control_area": "B026",
+            "coords": {
+                "lat": 40.595234,
+                "lng": -73.95509
+            },
+            "division": "BMT",
+            "line_name": "BQ",
+            "station_name": "NECK ROAD"
+        },
+        "R231": {
+            "color": "#FCCC0A",
+            "control_area": "C011",
+            "coords": {
+                "lat": 40.677302,
+                "lng": -73.983135
+            },
+            "division": "BMT",
+            "line_name": "R",
+            "station_name": "UNION ST"
+        },
+        "R232": {
+            "color": "#FCCC0A",
+            "control_area": "C019",
+            "coords": {
+                "lat": 40.648866,
+                "lng": -74.010086
+            },
+            "division": "BMT",
+            "line_name": "R",
+            "station_name": "45 ST"
+        },
+        "R233": {
+            "color": "#FCCC0A",
+            "control_area": "C020",
+            "coords": {
+                "lat": 40.644959,
+                "lng": -74.014034
+            },
+            "division": "BMT",
+            "line_name": "R",
+            "station_name": "53 ST"
+        },
+        "R234": {
+            "color": "#FF6319",
+            "control_area": "E004",
+            "coords": {
+                "lat": 40.636232,
+                "lng": -73.994765
+            },
+            "division": "BMT",
+            "line_name": "D",
+            "station_name": "50 ST"
+        },
+        "R235": {
+            "color": "#A7A9AC",
+            "control_area": "H009",
+            "coords": {
+                "lat": 40.717241,
+                "lng": -73.956614
+            },
+            "division": "BMT",
+            "line_name": "L",
+            "station_name": "BEDFORD AVE"
+        },
+        "R236": {
+            "color": "#A7A9AC",
+            "control_area": "H023",
+            "coords": {
+                "lat": 40.703839,
+                "lng": -73.91844
+            },
+            "division": "BMT",
+            "line_name": "L",
+            "station_name": "DEKALB AVE"
+        },
+        "R237": {
+            "color": "#FF6319",
+            "control_area": "N215",
+            "coords": {
+                "lat": 40.856085,
+                "lng": -73.900695
+            },
+            "division": "IND",
+            "line_name": "BD",
+            "station_name": "182-183 ST"
+        },
+        "R238": {
+            "color": "#FF6319",
+            "control_area": "N314",
+            "coords": {
+                "lat": 40.756864,
+                "lng": -73.920736
+            },
+            "division": "IND",
+            "line_name": "MR",
+            "station_name": "STEINWAY ST"
+        },
+        "R239": {
+            "color": "#6CBE45",
+            "control_area": "N403",
+            "coords": {
+                "lat": 40.731324,
+                "lng": -73.954425
+            },
+            "division": "IND",
+            "line_name": "G",
+            "station_name": "GREENPOINT AVE"
+        },
+        "R240": {
+            "color": "#FF6319",
+            "control_area": "N520",
+            "coords": {
+                "lat": 40.718542,
+                "lng": -73.994164
+            },
+            "division": "IND",
+            "line_name": "BD",
+            "station_name": "GRAND ST"
+        },
+        "R241": {
+            "color": "#FF6319",
+            "control_area": "N541",
+            "coords": {
+                "lat": 40.660376,
+                "lng": -73.979509
+            },
+            "division": "IND",
+            "line_name": "FG",
+            "station_name": "15 ST-PROSPECT"
+        },
+        "R242": {
+            "color": "#FF6319",
+            "control_area": "N550",
+            "coords": {
+                "lat": 40.629881,
+                "lng": -73.977149
+            },
+            "division": "IND",
+            "line_name": "F",
+            "station_name": "18 AVE"
+        },
+        "R243": {
+            "color": "#00933C",
+            "control_area": "R284",
+            "coords": {
+                "lat": 40.840048,
+                "lng": -73.917775
+            },
+            "division": "IRT",
+            "line_name": "4",
+            "station_name": "170 ST"
+        },
+        "R244": {
+            "color": "#00933C",
+            "control_area": "R287",
+            "coords": {
+                "lat": 40.85339,
+                "lng": -73.907733
+            },
+            "division": "IRT",
+            "line_name": "4",
+            "station_name": "BURNSIDE AVE"
+        },
+        "R245": {
+            "color": "#00933C",
+            "control_area": "R416",
+            "coords": {
+                "lat": 40.8315,
+                "lng": -73.867623
+            },
+            "division": "IRT",
+            "line_name": "6",
+            "station_name": "ST LAWRENCE AVE"
+        },
+        "R246": {
+            "color": "#FCCC0A",
+            "control_area": "C014",
+            "coords": {
+                "lat": 40.665438,
+                "lng": -73.992856
+            },
+            "division": "BMT",
+            "line_name": "R",
+            "station_name": "PROSPECT AVE"
+        },
+        "R247": {
+            "color": "#FF6319",
+            "control_area": "E005",
+            "coords": {
+                "lat": 40.631412,
+                "lng": -73.995473
+            },
+            "division": "BMT",
+            "line_name": "D",
+            "station_name": "55 ST"
+        },
+        "R248": {
+            "color": "#A7A9AC",
+            "control_area": "H008",
+            "coords": {
+                "lat": 40.730901,
+                "lng": -73.981719
+            },
+            "division": "BMT",
+            "line_name": "L",
+            "station_name": "1 AVE"
+        },
+        "R249": {
+            "color": "#A7A9AC",
+            "control_area": "H013",
+            "coords": {
+                "lat": 40.71459,
+                "lng": -73.944104
+            },
+            "division": "BMT",
+            "line_name": "L",
+            "station_name": "GRAHAM AVE"
+        },
+        "R250": {
+            "color": "#A7A9AC",
+            "control_area": "H015",
+            "coords": {
+                "lat": 40.711874,
+                "lng": -73.94067
+            },
+            "division": "BMT",
+            "line_name": "L",
+            "station_name": "GRAND ST"
+        },
+        "R251": {
+            "color": "#FF6319",
+            "control_area": "N039",
+            "coords": {
+                "lat": 40.791654,
+                "lng": -73.964682
+            },
+            "division": "IND",
+            "line_name": "BC",
+            "station_name": "96 ST"
+        },
+        "R252": {
+            "color": "#2850AD",
+            "control_area": "N101",
+            "coords": {
+                "lat": 40.699316,
+                "lng": -73.990474
+            },
+            "division": "IND",
+            "line_name": "AC",
+            "station_name": "HIGH ST"
+        },
+        "R253": {
+            "color": "#FF6319",
+            "control_area": "N212",
+            "coords": {
+                "lat": 40.845892,
+                "lng": -73.910136
+            },
+            "division": "IND",
+            "line_name": "BD",
+            "station_name": "174-175 ST"
+        },
+        "R254": {
+            "color": "#FF6319",
+            "control_area": "N327",
+            "coords": {
+                "lat": 40.736998,
+                "lng": -73.877242
+            },
+            "division": "IND",
+            "line_name": "MR",
+            "station_name": "GRAND AV-NEWTON"
+        },
+        "R255": {
+            "color": "#2850AD",
+            "control_area": "N337",
+            "coords": {
+                "lat": 40.709174,
+                "lng": -73.820593
+            },
+            "division": "IND",
+            "line_name": "EF",
+            "station_name": "VAN WYCK BLVD"
+        },
+        "R256": {
+            "color": "#6CBE45",
+            "control_area": "N408A",
+            "coords": {
+                "lat": 40.724608,
+                "lng": -73.951271
+            },
+            "division": "IND",
+            "line_name": "G",
+            "station_name": "NASSAU AV"
+        },
+        "R257": {
+            "color": "#FF6319",
+            "control_area": "N528",
+            "coords": {
+                "lat": 40.713647,
+                "lng": -73.990152
+            },
+            "division": "IND",
+            "line_name": "F",
+            "station_name": "EAST BROADWAY"
+        },
+        "R258": {
+            "color": "#FF6319",
+            "control_area": "N537",
+            "coords": {
+                "lat": 40.67032,
+                "lng": -73.988757
+            },
+            "division": "IND",
+            "line_name": "DFGMNR",
+            "station_name": "4 AVE"
+        },
+        "R259": {
+            "color": "#FF6319",
+            "control_area": "N602",
+            "coords": {
+                "lat": 40.759123,
+                "lng": -73.953266
+            },
+            "division": "IND",
+            "line_name": "F",
+            "station_name": "ROOSEVELT IS"
+        },
+        "R260": {
+            "color": "#EE352E",
+            "control_area": "R183",
+            "coords": {
+                "lat": 40.849495,
+                "lng": -73.933632
+            },
+            "division": "IRT",
+            "line_name": "1",
+            "station_name": "181 ST"
+        },
+        "R261": {
+            "color": "#B933AD",
+            "control_area": "R518",
+            "coords": {
+                "lat": 40.743778,
+                "lng": -73.923998
+            },
+            "division": "IRT",
+            "line_name": "7",
+            "station_name": "40 ST-LOWERY ST"
+        },
+        "R262": {
+            "color": "#FF6319",
+            "control_area": "B017",
+            "coords": {
+                "lat": 40.643982,
+                "lng": -73.96451
+            },
+            "division": "BMT",
+            "line_name": "BQ",
+            "station_name": "BEVERLEY ROAD"
+        },
+        "R263": {
+            "color": "#FF6319",
+            "control_area": "B020",
+            "coords": {
+                "lat": 40.629164,
+                "lng": -73.961678
+            },
+            "division": "BMT",
+            "line_name": "BQ",
+            "station_name": "AVE H"
+        },
+        "R264": {
+            "color": "#FCCC0A",
+            "control_area": "B034",
+            "coords": {
+                "lat": 40.576298,
+                "lng": -73.968523
+            },
+            "division": "BMT",
+            "line_name": "Q",
+            "station_name": "OCEAN PARKWAY"
+        },
+        "R265": {
+            "color": "#A7A9AC",
+            "control_area": "H017",
+            "coords": {
+                "lat": 40.707889,
+                "lng": -73.940005
+            },
+            "division": "BMT",
+            "line_name": "L",
+            "station_name": "MONTROSE AVE"
+        },
+        "R266": {
+            "color": "#A7A9AC",
+            "control_area": "H030",
+            "coords": {
+                "lat": 40.695607,
+                "lng": -73.904021
+            },
+            "division": "BMT",
+            "line_name": "L",
+            "station_name": "HALSEY ST"
+        },
+        "R267": {
+            "color": "#FF6319",
+            "control_area": "N317",
+            "coords": {
+                "lat": 40.756312,
+                "lng": -73.913333
+            },
+            "division": "IND",
+            "line_name": "MR",
+            "station_name": "46 ST"
+        },
+        "R268": {
+            "color": "#6CBE45",
+            "control_area": "N409",
+            "coords": {
+                "lat": 40.713875,
+                "lng": -73.951592
+            },
+            "division": "IND",
+            "line_name": "GL",
+            "station_name": "METROPOLITAN AV"
+        },
+        "R269": {
+            "color": "#6CBE45",
+            "control_area": "N418",
+            "coords": {
+                "lat": 40.689636,
+                "lng": -73.953459
+            },
+            "division": "IND",
+            "line_name": "G",
+            "station_name": "BEDFORD/NOSTRAN"
+        },
+        "R270": {
+            "color": "#FF6319",
+            "control_area": "N536",
+            "coords": {
+                "lat": 40.673714,
+                "lng": -73.996139
+            },
+            "division": "IND",
+            "line_name": "FG",
+            "station_name": "SMITH-9 ST"
+        },
+        "R271": {
+            "color": "#FF6319",
+            "control_area": "N561",
+            "coords": {
+                "lat": 40.589547,
+                "lng": -73.974295
+            },
+            "division": "IND",
+            "line_name": "F",
+            "station_name": "AVE X"
+        },
+        "R272": {
+            "color": "#EE352E",
+            "control_area": "R134",
+            "coords": {
+                "lat": 40.747224,
+                "lng": -73.99336
+            },
+            "division": "IRT",
+            "line_name": "1",
+            "station_name": "28 ST"
+        },
+        "R273": {
+            "color": "#EE352E",
+            "control_area": "R177",
+            "coords": {
+                "lat": 40.826426,
+                "lng": -73.950412
+            },
+            "division": "IRT",
+            "line_name": "1",
+            "station_name": "145 ST"
+        },
+        "R274": {
+            "color": "#EE352E",
+            "control_area": "R185",
+            "coords": {
+                "lat": 40.855176,
+                "lng": -73.929384
+            },
+            "division": "IRT",
+            "line_name": "1",
+            "station_name": "191 ST"
+        },
+        "R275": {
+            "color": "#00933C",
+            "control_area": "R288",
+            "coords": {
+                "lat": 40.858389,
+                "lng": -73.903828
+            },
+            "division": "IRT",
+            "line_name": "4",
+            "station_name": "183 ST"
+        },
+        "R276": {
+            "color": "#B933AD",
+            "control_area": "R506",
+            "coords": {
+                "lat": 40.742624,
+                "lng": -73.953545
+            },
+            "division": "IRT",
+            "line_name": "7",
+            "station_name": "VERNON/JACKSON"
+        },
+        "R277": {
+            "color": "#EE352E",
+            "control_area": "R635",
+            "coords": {
+                "lat": 40.667879,
+                "lng": -73.950648
+            },
+            "division": "IRT",
+            "line_name": "25",
+            "station_name": "PRESIDENT ST"
+        },
+        "R278": {
+            "color": "#FCCC0A",
+            "control_area": "C016",
+            "coords": {
+                "lat": 40.660481,
+                "lng": -73.998059
+            },
+            "division": "BMT",
+            "line_name": "R",
+            "station_name": "25 ST"
+        },
+        "R279": {
+            "color": "#A7A9AC",
+            "control_area": "H022",
+            "coords": {
+                "lat": 40.706636,
+                "lng": -73.922925
+            },
+            "division": "BMT",
+            "line_name": "L",
+            "station_name": "JEFFERSON ST"
+        },
+        "R280": {
+            "color": "#2850AD",
+            "control_area": "N006A",
+            "coords": {
+                "lat": 40.859022,
+                "lng": -73.93419
+            },
+            "division": "IND",
+            "line_name": "A",
+            "station_name": "190 ST"
+        },
+        "R281": {
+            "color": "#FF6319",
+            "control_area": "N046",
+            "coords": {
+                "lat": 40.775545,
+                "lng": -73.976398
+            },
+            "division": "IND",
+            "line_name": "BC",
+            "station_name": "72 ST"
+        },
+        "R282": {
+            "color": "#2850AD",
+            "control_area": "N087",
+            "coords": {
+                "lat": 40.726202,
+                "lng": -74.003627
+            },
+            "division": "IND",
+            "line_name": "CE",
+            "station_name": "SPRING ST"
+        },
+        "R283": {
+            "color": "#2850AD",
+            "control_area": "N110",
+            "coords": {
+                "lat": 40.68617,
+                "lng": -73.973908
+            },
+            "division": "IND",
+            "line_name": "C",
+            "station_name": "LAFAYETTE AVE"
+        },
+        "R284": {
+            "color": "#2850AD",
+            "control_area": "N112A",
+            "coords": {
+                "lat": 40.683263,
+                "lng": -73.965838
+            },
+            "division": "IND",
+            "line_name": "C",
+            "station_name": "CLINTON-WASH AV"
+        },
+        "R285": {
+            "color": "#2850AD",
+            "control_area": "N196",
+            "coords": {
+                "lat": 40.603983,
+                "lng": -73.755383
+            },
+            "division": "IND",
+            "line_name": "A",
+            "station_name": "FAR ROCKAWAY"
+        },
+        "R286": {
+            "color": "#6CBE45",
+            "control_area": "N416",
+            "coords": {
+                "lat": 40.694568,
+                "lng": -73.949046
+            },
+            "division": "IND",
+            "line_name": "G",
+            "station_name": "MYRTLE-WILLOUGH"
+        },
+        "R287": {
+            "color": "#6CBE45",
+            "control_area": "N419",
+            "coords": {
+                "lat": 40.688855,
+                "lng": -73.960025
+            },
+            "division": "IND",
+            "line_name": "G",
+            "station_name": "CLASSON AVE"
+        },
+        "R288": {
+            "color": "#FF6319",
+            "control_area": "N539A",
+            "coords": {
+                "lat": 40.666276,
+                "lng": -73.980324
+            },
+            "division": "IND",
+            "line_name": "FG",
+            "station_name": "7 AV-PARK SLOPE"
+        },
+        "R289": {
+            "color": "#FF6319",
+            "control_area": "N544",
+            "coords": {
+                "lat": 40.650722,
+                "lng": -73.975818
+            },
+            "division": "IND",
+            "line_name": "FG",
+            "station_name": "FT HAMILTON PKY"
+        },
+        "R290": {
+            "color": "#EE352E",
+            "control_area": "R124",
+            "coords": {
+                "lat": 40.728202,
+                "lng": -74.005344
+            },
+            "division": "IRT",
+            "line_name": "1",
+            "station_name": "HOUSTON ST"
+        },
+        "R291": {
+            "color": "#B933AD",
+            "control_area": "R517",
+            "coords": {
+                "lat": 40.744558,
+                "lng": -73.930993
+            },
+            "division": "IRT",
+            "line_name": "7",
+            "station_name": "33 ST/RAWSON ST"
+        },
+        "R292": {
+            "color": "#00933C",
+            "control_area": "R729",
+            "coords": {
+                "lat": 40.878656,
+                "lng": -73.838596
+            },
+            "division": "IRT",
+            "line_name": "5",
+            "station_name": "BAYCHESTER AVE"
+        },
+        "R293": {
+            "color": "#EE352E",
+            "control_area": "R142",
+            "coords": {
+                "lat": 40.750264,
+                "lng": -73.992984
+            },
+            "division": "IRT",
+            "line_name": "123ACE",
+            "station_name": "34 ST-PENN STA"
+        },
+        "R294": {
+            "color": "#A7A9AC",
+            "control_area": "H019",
+            "coords": {
+                "lat": 40.706148,
+                "lng": -73.93316
+            },
+            "division": "BMT",
+            "line_name": "L",
+            "station_name": "MORGAN AVE"
+        },
+        "R295": {
+            "color": "#A7A9AC",
+            "control_area": "H032",
+            "coords": {
+                "lat": 40.688676,
+                "lng": -73.903999
+            },
+            "division": "BMT",
+            "line_name": "L",
+            "station_name": "WILSON AVE"
+        },
+        "R296": {
+            "color": "#2850AD",
+            "control_area": "N016A",
+            "coords": {
+                "lat": 40.835957,
+                "lng": -73.939898
+            },
+            "division": "IND",
+            "line_name": "C",
+            "station_name": "163 ST-AMSTERDM"
+        },
+        "R297": {
+            "color": "#2850AD",
+            "control_area": "N114",
+            "coords": {
+                "lat": 40.681159,
+                "lng": -73.956056
+            },
+            "division": "IND",
+            "line_name": "ACS",
+            "station_name": "FRANKLIN AVE"
+        },
+        "R298": {
+            "color": "#FF6319",
+            "control_area": "N319",
+            "coords": {
+                "lat": 40.752898,
+                "lng": -73.905973
+            },
+            "division": "IND",
+            "line_name": "MR",
+            "station_name": "NORTHERN BLVD"
+        },
+        "R299": {
+            "color": "#6CBE45",
+            "control_area": "N412",
+            "coords": {
+                "lat": 40.7061,
+                "lng": -73.950348
+            },
+            "division": "IND",
+            "line_name": "G",
+            "station_name": "BROADWAY"
+        },
+        "R300": {
+            "color": "#FF6319",
+            "control_area": "N521",
+            "coords": {
+                "lat": 40.723291,
+                "lng": -73.989873
+            },
+            "division": "IND",
+            "line_name": "F",
+            "station_name": "2 AVE"
+        },
+        "R301": {
+            "color": "#FF6319",
+            "control_area": "N530",
+            "coords": {
+                "lat": 40.699756,
+                "lng": -73.98689
+            },
+            "division": "IND",
+            "line_name": "F",
+            "station_name": "YORK ST"
+        },
+        "R302": {
+            "color": "#FF6319",
+            "control_area": "N600",
+            "coords": {
+                "lat": 40.763625,
+                "lng": -73.977449
+            },
+            "division": "IND",
+            "line_name": "F",
+            "station_name": "57 ST"
+        },
+        "R303": {
+            "color": "#FF6319",
+            "control_area": "N603",
+            "coords": {
+                "lat": 40.7541,
+                "lng": -73.94258
+            },
+            "division": "IND",
+            "line_name": "F",
+            "station_name": "21 ST"
+        },
+        "R304": {
+            "color": "#EE352E",
+            "control_area": "R102",
+            "coords": {
+                "lat": 40.70784,
+                "lng": -74.013691
+            },
+            "division": "IRT",
+            "line_name": "1",
+            "station_name": "RECTOR ST"
+        },
+        "R305": {
+            "color": "#EE352E",
+            "control_area": "R109",
+            "coords": {
+                "lat": 40.710454,
+                "lng": -74.011324
+            },
+            "division": "IRT",
+            "line_name": "1",
+            "station_name": "CORTLANDT ST"
+        },
+        "R306": {
+            "color": "#EE352E",
+            "control_area": "R196",
+            "coords": {
+                "lat": 40.884821,
+                "lng": -73.900759
+            },
+            "division": "IRT",
+            "line_name": "1",
+            "station_name": "238 ST"
+        },
+        "R307": {
+            "color": "#00933C",
+            "control_area": "R259",
+            "coords": {
+                "lat": 40.813208,
+                "lng": -73.929877
+            },
+            "division": "IRT",
+            "line_name": "45",
+            "station_name": "138 ST-GR CONC"
+        },
+        "R308": {
+            "color": "#00933C",
+            "control_area": "R285",
+            "coords": {
+                "lat": 40.844406,
+                "lng": -73.914621
+            },
+            "division": "IRT",
+            "line_name": "4",
+            "station_name": "MT EDEN AVE"
+        },
+        "R309": {
+            "color": "#00933C",
+            "control_area": "R286",
+            "coords": {
+                "lat": 40.848635,
+                "lng": -73.912497
+            },
+            "division": "IRT",
+            "line_name": "4",
+            "station_name": "176 ST"
+        },
+        "R310": {
+            "color": "#B933AD",
+            "control_area": "R530",
+            "coords": {
+                "lat": 40.75176,
+                "lng": -73.855183
+            },
+            "division": "IRT",
+            "line_name": "7",
+            "station_name": "111 ST"
+        },
+        "R311": {
+            "color": "#996633",
+            "control_area": "A064",
+            "coords": {
+                "lat": 40.720315,
+                "lng": -73.994014
+            },
+            "division": "BMT",
+            "line_name": "JZ",
+            "station_name": "BOWERY"
+        },
+        "R312": {
+            "color": "#FF6319",
+            "control_area": "G015",
+            "coords": {
+                "lat": 40.576152,
+                "lng": -73.975925
+            },
+            "division": "BMT",
+            "line_name": "FQ",
+            "station_name": "W 8 ST-AQUARIUM"
+        },
+        "R313": {
+            "color": "#A7A9AC",
+            "control_area": "H033",
+            "coords": {
+                "lat": 40.682558,
+                "lng": -73.905501
+            },
+            "division": "BMT",
+            "line_name": "L",
+            "station_name": "BUSHWICK AVE"
+        },
+        "R314": {
+            "color": "#FF6319",
+            "control_area": "N037",
+            "coords": {
+                "lat": 40.796105,
+                "lng": -73.961399
+            },
+            "division": "IND",
+            "line_name": "BC",
+            "station_name": "103 ST"
+        },
+        "R315": {
+            "color": "#FF6319",
+            "control_area": "N202",
+            "coords": {
+                "lat": 40.829934,
+                "lng": -73.938632
+            },
+            "division": "IND",
+            "line_name": "BD",
+            "station_name": "155 ST"
+        },
+        "R316": {
+            "color": "#6CBE45",
+            "control_area": "N414A",
+            "coords": {
+                "lat": 40.700374,
+                "lng": -73.950284
+            },
+            "division": "IND",
+            "line_name": "G",
+            "station_name": "FLUSHING AVE"
+        },
+        "R317": {
+            "color": "#6CBE45",
+            "control_area": "N420B",
+            "coords": {
+                "lat": 40.688123,
+                "lng": -73.966742
+            },
+            "division": "IND",
+            "line_name": "G",
+            "station_name": "CLINTON-WASH AV"
+        },
+        "R318": {
+            "color": "#6CBE45",
+            "control_area": "N422",
+            "coords": {
+                "lat": 40.68713,
+                "lng": -73.975346
+            },
+            "division": "IND",
+            "line_name": "G",
+            "station_name": "FULTON ST"
+        },
+        "R319": {
+            "color": "#FF6319",
+            "control_area": "N601",
+            "coords": {
+                "lat": 40.764763,
+                "lng": -73.966291
+            },
+            "division": "IND",
+            "line_name": "F",
+            "station_name": "LEXINGTON AVE"
+        },
+        "R320": {
+            "color": "#EE352E",
+            "control_area": "R120",
+            "coords": {
+                "lat": 40.722819,
+                "lng": -74.006267
+            },
+            "division": "IRT",
+            "line_name": "1",
+            "station_name": "CANAL ST"
+        },
+        "R321": {
+            "color": "#EE352E",
+            "control_area": "R130",
+            "coords": {
+                "lat": 40.741096,
+                "lng": -73.997877
+            },
+            "division": "IRT",
+            "line_name": "1",
+            "station_name": "18 ST"
+        },
+        "R322": {
+            "color": "#00933C",
+            "control_area": "R216",
+            "coords": {
+                "lat": 40.722397,
+                "lng": -73.997211
+            },
+            "division": "IRT",
+            "line_name": "6",
+            "station_name": "SPRING ST"
+        },
+        "R323": {
+            "color": "#EE352E",
+            "control_area": "R301",
+            "coords": {
+                "lat": 40.79911,
+                "lng": -73.951807
+            },
+            "division": "IRT",
+            "line_name": "23",
+            "station_name": "110 ST-CPN"
+        },
+        "R324": {
+            "color": "#EE352E",
+            "control_area": "R302",
+            "coords": {
+                "lat": 40.802098,
+                "lng": -73.949625
+            },
+            "division": "IRT",
+            "line_name": "23",
+            "station_name": "116 ST"
+        },
+        "R325": {
+            "color": "#00933C",
+            "control_area": "R413",
+            "coords": {
+                "lat": 40.826508,
+                "lng": -73.886425
+            },
+            "division": "IRT",
+            "line_name": "6",
+            "station_name": "WHITLOCK AVE"
+        },
+        "R326": {
+            "color": "#00933C",
+            "control_area": "R419",
+            "coords": {
+                "lat": 40.83646,
+                "lng": -73.846471
+            },
+            "division": "IRT",
+            "line_name": "6",
+            "station_name": "ZEREGA AVE"
+        },
+        "R327": {
+            "color": "#B933AD",
+            "control_area": "R521",
+            "coords": {
+                "lat": 40.744103,
+                "lng": -73.912497
+            },
+            "division": "IRT",
+            "line_name": "7",
+            "station_name": "52 ST-LINCOLN"
+        },
+        "R328": {
+            "color": "#B933AD",
+            "control_area": "R532H",
+            "coords": {
+                "lat": 40.754622,
+                "lng": -73.845625
+            },
+            "division": "IRT",
+            "line_name": "7",
+            "station_name": "METS-WILLETS PT"
+        },
+        "R329": {
+            "color": "#00933C",
+            "control_area": "R726",
+            "coords": {
+                "lat": 40.854137,
+                "lng": -73.860977
+            },
+            "division": "IRT",
+            "line_name": "5",
+            "station_name": "MORRIS PARK"
+        },
+        "R330": {
+            "color": "#A7A9AC",
+            "control_area": "H006",
+            "coords": {
+                "lat": 40.733243,
+                "lng": -73.987169
+            },
+            "division": "BMT",
+            "line_name": "L",
+            "station_name": "3 AVE"
+        },
+        "R331": {
+            "color": "#2850AD",
+            "control_area": "N017",
+            "coords": {
+                "lat": 40.830551,
+                "lng": -73.941486
+            },
+            "division": "IND",
+            "line_name": "C",
+            "station_name": "155 ST"
+        },
+        "R332": {
+            "color": "#FF6319",
+            "control_area": "N022",
+            "coords": {
+                "lat": 40.817902,
+                "lng": -73.947644
+            },
+            "division": "IND",
+            "line_name": "BC",
+            "station_name": "135 ST"
+        },
+        "R333": {
+            "color": "#FF6319",
+            "control_area": "N029",
+            "coords": {
+                "lat": 40.805072,
+                "lng": -73.954833
+            },
+            "division": "IND",
+            "line_name": "BC",
+            "station_name": "116 ST"
+        },
+        "R334": {
+            "color": "#FF6319",
+            "control_area": "N034",
+            "coords": {
+                "lat": 40.800637,
+                "lng": -73.958201
+            },
+            "division": "IND",
+            "line_name": "BC",
+            "station_name": "CATHEDRL-110 ST"
+        },
+        "R335": {
+            "color": "#2850AD",
+            "control_area": "N191",
+            "coords": {
+                "lat": 40.590867,
+                "lng": -73.797011
+            },
+            "division": "IND",
+            "line_name": "A",
+            "station_name": "BEACH 67 ST"
+        },
+        "R336": {
+            "color": "#2850AD",
+            "control_area": "N192",
+            "coords": {
+                "lat": 40.592334,
+                "lng": -73.788493
+            },
+            "division": "IND",
+            "line_name": "A",
+            "station_name": "BEACH 60 ST"
+        },
+        "R337": {
+            "color": "#2850AD",
+            "control_area": "N193",
+            "coords": {
+                "lat": 40.593214,
+                "lng": -73.776433
+            },
+            "division": "IND",
+            "line_name": "A",
+            "station_name": "BEACH 44 ST"
+        },
+        "R338": {
+            "color": "#2850AD",
+            "control_area": "N194",
+            "coords": {
+                "lat": 40.595381,
+                "lng": -73.768194
+            },
+            "division": "IND",
+            "line_name": "A",
+            "station_name": "BEACH 36 ST"
+        },
+        "R339": {
+            "color": "#FF6319",
+            "control_area": "N311",
+            "coords": {
+                "lat": 40.75202,
+                "lng": -73.92874
+            },
+            "division": "IND",
+            "line_name": "MR",
+            "station_name": "36 ST"
+        },
+        "R340": {
+            "color": "#FF6319",
+            "control_area": "N322",
+            "coords": {
+                "lat": 40.749663,
+                "lng": -73.898485
+            },
+            "division": "IND",
+            "line_name": "MR",
+            "station_name": "65 ST"
+        },
+        "R341": {
+            "color": "#2850AD",
+            "control_area": "N334B",
+            "coords": {
+                "lat": 40.718477,
+                "lng": -73.837223
+            },
+            "division": "IND",
+            "line_name": "EF",
+            "station_name": "75 AVE"
+        },
+        "R342": {
+            "color": "#2850AD",
+            "control_area": "N604",
+            "coords": {
+                "lat": 40.702566,
+                "lng": -73.816859
+            },
+            "division": "IND",
+            "line_name": "E",
+            "station_name": "JAMAICA-VAN WYC"
+        },
+        "R343": {
+            "color": "#EE352E",
+            "control_area": "R118",
+            "coords": {
+                "lat": 40.719323,
+                "lng": -74.006953
+            },
+            "division": "IRT",
+            "line_name": "1",
+            "station_name": "FRANKLIN ST"
+        },
+        "R344": {
+            "color": "#EE352E",
+            "control_area": "R308",
+            "coords": {
+                "lat": 40.820402,
+                "lng": -73.936315
+            },
+            "division": "IRT",
+            "line_name": "3",
+            "station_name": "145 ST"
+        },
+        "R345": {
+            "color": "#EE352E",
+            "control_area": "R309",
+            "coords": {
+                "lat": 40.823877,
+                "lng": -73.936443
+            },
+            "division": "IRT",
+            "line_name": "3",
+            "station_name": "148 ST-LENOX"
+        },
+        "R346": {
+            "color": "#B933AD",
+            "control_area": "R508",
+            "coords": {
+                "lat": 40.747029,
+                "lng": -73.94537
+            },
+            "division": "IRT",
+            "line_name": "7",
+            "station_name": "COURT SQ"
+        },
+        "R347": {
+            "color": "#B933AD",
+            "control_area": "R524",
+            "coords": {
+                "lat": 40.746325,
+                "lng": -73.896403
+            },
+            "division": "IRT",
+            "line_name": "7",
+            "station_name": "69 ST-FISK AVE"
+        },
+        "R348": {
+            "color": "#A7A9AC",
+            "control_area": "H035",
+            "coords": {
+                "lat": 40.675496,
+                "lng": -73.902819
+            },
+            "division": "BMT",
+            "line_name": "L",
+            "station_name": "ATLANTIC AVE"
+        },
+        "R349": {
+            "color": "#A7A9AC",
+            "control_area": "H037",
+            "coords": {
+                "lat": 40.669376,
+                "lng": -73.902047
+            },
+            "division": "BMT",
+            "line_name": "L",
+            "station_name": "SUTTER AVE"
+        },
+        "R350": {
+            "color": "#A7A9AC",
+            "control_area": "H038",
+            "coords": {
+                "lat": 40.663801,
+                "lng": -73.900444
+            },
+            "division": "BMT",
+            "line_name": "L",
+            "station_name": "LIVONIA AVE"
+        },
+        "R352": {
+            "color": "#996633",
+            "control_area": "J003",
+            "coords": {
+                "lat": 40.706994,
+                "lng": -73.953481
+            },
+            "division": "BMT",
+            "line_name": "JM",
+            "station_name": "HEWES ST"
+        },
+        "R353": {
+            "color": "#996633",
+            "control_area": "J005",
+            "coords": {
+                "lat": 40.703855,
+                "lng": -73.947387
+            },
+            "division": "BMT",
+            "line_name": "JM",
+            "station_name": "LORIMER ST"
+        },
+        "R354": {
+            "color": "#2850AD",
+            "control_area": "N137",
+            "coords": {
+                "lat": 40.681745,
+                "lng": -73.837631
+            },
+            "division": "IND",
+            "line_name": "A",
+            "station_name": "OXFORD-104 ST"
+        },
+        "R355": {
+            "color": "#2850AD",
+            "control_area": "N138",
+            "coords": {
+                "lat": 40.684364,
+                "lng": -73.832181
+            },
+            "division": "IND",
+            "line_name": "A",
+            "station_name": "GREENWOOD-111"
+        },
+        "R356": {
+            "color": "#2850AD",
+            "control_area": "N141",
+            "coords": {
+                "lat": 40.685975,
+                "lng": -73.824713
+            },
+            "division": "IND",
+            "line_name": "A",
+            "station_name": "LEFFERTS BLVD"
+        },
+        "R357": {
+            "color": "#2850AD",
+            "control_area": "N181",
+            "coords": {
+                "lat": 40.668234,
+                "lng": -73.834058
+            },
+            "division": "IND",
+            "line_name": "A",
+            "station_name": "AQUEDUCT-N CNDT"
+        },
+        "R358": {
+            "color": "#2850AD",
+            "control_area": "N195",
+            "coords": {
+                "lat": 40.600138,
+                "lng": -73.76152
+            },
+            "division": "IND",
+            "line_name": "A",
+            "station_name": "BEACH 25 ST"
+        },
+        "R359": {
+            "color": "#2850AD",
+            "control_area": "N400A",
+            "coords": {
+                "lat": 40.747257,
+                "lng": -73.945112
+            },
+            "division": "IND",
+            "line_name": "EMG",
+            "station_name": "COURT SQ"
+        },
+        "R360": {
+            "color": "#6CBE45",
+            "control_area": "N401",
+            "coords": {
+                "lat": 40.743973,
+                "lng": -73.949876
+            },
+            "division": "IND",
+            "line_name": "G",
+            "station_name": "VAN ALSTON-21ST"
+        },
+        "R361": {
+            "color": "#EE352E",
+            "control_area": "R327",
+            "coords": {
+                "lat": 40.857188,
+                "lng": -73.867607
+            },
+            "division": "IRT",
+            "line_name": "25",
+            "station_name": "PELHAM PARKWAY"
+        },
+        "R362": {
+            "color": "#EE352E",
+            "control_area": "R329",
+            "coords": {
+                "lat": 40.865481,
+                "lng": -73.867393
+            },
+            "division": "IRT",
+            "line_name": "25",
+            "station_name": "ALLERTON AVE"
+        },
+        "R363": {
+            "color": "#EE352E",
+            "control_area": "R330",
+            "coords": {
+                "lat": 40.871387,
+                "lng": -73.867135
+            },
+            "division": "IRT",
+            "line_name": "25",
+            "station_name": "BURKE AVE"
+        },
+        "R364": {
+            "color": "#EE352E",
+            "control_area": "R331",
+            "coords": {
+                "lat": 40.877796,
+                "lng": -73.866255
+            },
+            "division": "IRT",
+            "line_name": "25",
+            "station_name": "GUN HILL ROAD"
+        },
+        "R365": {
+            "color": "#EE352E",
+            "control_area": "R332",
+            "coords": {
+                "lat": 40.883767,
+                "lng": -73.862736
+            },
+            "division": "IRT",
+            "line_name": "25",
+            "station_name": "219 ST"
+        },
+        "R366": {
+            "color": "#EE352E",
+            "control_area": "R333",
+            "coords": {
+                "lat": 40.887887,
+                "lng": -73.860505
+            },
+            "division": "IRT",
+            "line_name": "25",
+            "station_name": "225 ST"
+        },
+        "R367": {
+            "color": "#EE352E",
+            "control_area": "R334",
+            "coords": {
+                "lat": 40.893386,
+                "lng": -73.857265
+            },
+            "division": "IRT",
+            "line_name": "25",
+            "station_name": "233 ST"
+        },
+        "R368": {
+            "color": "#FF6319",
+            "control_area": "E001",
+            "coords": {
+                "lat": 40.646343,
+                "lng": -73.994551
+            },
+            "division": "BMT",
+            "line_name": "D",
+            "station_name": "9 AVE"
+        },
+        "R369": {
+            "color": "#FF6319",
+            "control_area": "E003",
+            "coords": {
+                "lat": 40.640872,
+                "lng": -73.994229
+            },
+            "division": "BMT",
+            "line_name": "D",
+            "station_name": "FT HAMILTON PKY"
+        },
+        "R370": {
+            "color": "#FF6319",
+            "control_area": "E009",
+            "coords": {
+                "lat": 40.619588,
+                "lng": -73.998842
+            },
+            "division": "BMT",
+            "line_name": "D",
+            "station_name": "71 ST"
+        },
+        "R371": {
+            "color": "#FF6319",
+            "control_area": "E011",
+            "coords": {
+                "lat": 40.613513,
+                "lng": -74.000645
+            },
+            "division": "BMT",
+            "line_name": "D",
+            "station_name": "79 ST"
+        },
+        "R372": {
+            "color": "#FF6319",
+            "control_area": "E012",
+            "coords": {
+                "lat": 40.607958,
+                "lng": -74.001782
+            },
+            "division": "BMT",
+            "line_name": "D",
+            "station_name": "18 AVE"
+        },
+        "R373": {
+            "color": "#FF6319",
+            "control_area": "E013",
+            "coords": {
+                "lat": 40.604798,
+                "lng": -73.998456
+            },
+            "division": "BMT",
+            "line_name": "D",
+            "station_name": "20 AVE"
+        },
+        "R374": {
+            "color": "#FF6319",
+            "control_area": "E014",
+            "coords": {
+                "lat": 40.601898,
+                "lng": -73.993821
+            },
+            "division": "BMT",
+            "line_name": "D",
+            "station_name": "BAY PARKWAY"
+        },
+        "R375": {
+            "color": "#A7A9AC",
+            "control_area": "H039",
+            "coords": {
+                "lat": 40.658748,
+                "lng": -73.899472
+            },
+            "division": "BMT",
+            "line_name": "L",
+            "station_name": "NEW LOTS AVE"
+        },
+        "R376": {
+            "color": "#A7A9AC",
+            "control_area": "H040",
+            "coords": {
+                "lat": 40.650625,
+                "lng": -73.899558
+            },
+            "division": "BMT",
+            "line_name": "L",
+            "station_name": "EAST 105 ST"
+        },
+        "R377": {
+            "color": "#996633",
+            "control_area": "J007",
+            "coords": {
+                "lat": 40.700244,
+                "lng": -73.941658
+            },
+            "division": "BMT",
+            "line_name": "JM",
+            "station_name": "FLUSHING AVE"
+        },
+        "R378": {
+            "color": "#996633",
+            "control_area": "J009",
+            "coords": {
+                "lat": 40.697266,
+                "lng": -73.935692
+            },
+            "division": "BMT",
+            "line_name": "JMZ",
+            "station_name": "MYRTLE AVE"
+        },
+        "R379": {
+            "color": "#996633",
+            "control_area": "J012",
+            "coords": {
+                "lat": 40.693329,
+                "lng": -73.928826
+            },
+            "division": "BMT",
+            "line_name": "J",
+            "station_name": "KOSCIUSZKO ST"
+        },
+        "R380": {
+            "color": "#996633",
+            "control_area": "J013",
+            "coords": {
+                "lat": 40.689652,
+                "lng": -73.922281
+            },
+            "division": "BMT",
+            "line_name": "JZ",
+            "station_name": "GATES AVE"
+        },
+        "R381": {
+            "color": "#996633",
+            "control_area": "J016",
+            "coords": {
+                "lat": 40.68617,
+                "lng": -73.916337
+            },
+            "division": "BMT",
+            "line_name": "J",
+            "station_name": "HALSEY ST"
+        },
+        "R382": {
+            "color": "#2850AD",
+            "control_area": "N129",
+            "coords": {
+                "lat": 40.677107,
+                "lng": -73.865376
+            },
+            "division": "IND",
+            "line_name": "A",
+            "station_name": "GRANT AVE"
+        },
+        "R383": {
+            "color": "#2850AD",
+            "control_area": "N130",
+            "coords": {
+                "lat": 40.679369,
+                "lng": -73.85896
+            },
+            "division": "IND",
+            "line_name": "A",
+            "station_name": "HUDSON-80 ST"
+        },
+        "R384": {
+            "color": "#2850AD",
+            "control_area": "N133",
+            "coords": {
+                "lat": 40.679857,
+                "lng": -73.851492
+            },
+            "division": "IND",
+            "line_name": "A",
+            "station_name": "BOYD-88 ST"
+        },
+        "R385": {
+            "color": "#2850AD",
+            "control_area": "N135",
+            "coords": {
+                "lat": 40.680429,
+                "lng": -73.843853
+            },
+            "division": "IND",
+            "line_name": "A",
+            "station_name": "ROCKAWAY BLVD"
+        },
+        "R386": {
+            "color": "#EE352E",
+            "control_area": "R321",
+            "coords": {
+                "lat": 40.837382,
+                "lng": -73.887659
+            },
+            "division": "IRT",
+            "line_name": "25",
+            "station_name": "174 ST"
+        },
+        "R387": {
+            "color": "#EE352E",
+            "control_area": "R323A",
+            "coords": {
+                "lat": 40.840097,
+                "lng": -73.879774
+            },
+            "division": "IRT",
+            "line_name": "25",
+            "station_name": "E TREMONT AVE"
+        },
+        "R388": {
+            "color": "#EE352E",
+            "control_area": "R325",
+            "coords": {
+                "lat": 40.841882,
+                "lng": -73.873551
+            },
+            "division": "IRT",
+            "line_name": "25",
+            "station_name": "E 180 ST"
+        },
+        "R389": {
+            "color": "#EE352E",
+            "control_area": "R326",
+            "coords": {
+                "lat": 40.848797,
+                "lng": -73.868465
+            },
+            "division": "IRT",
+            "line_name": "25",
+            "station_name": "BRONX PARK EAST"
+        },
+        "R390": {
+            "color": "#FCCC0A",
+            "control_area": "D002",
+            "coords": {
+                "lat": 40.635011,
+                "lng": -74.011717
+            },
+            "division": "BMT",
+            "line_name": "N",
+            "station_name": "8 AVE"
+        },
+        "R391": {
+            "color": "#FCCC0A",
+            "control_area": "D004",
+            "coords": {
+                "lat": 40.631428,
+                "lng": -74.005387
+            },
+            "division": "BMT",
+            "line_name": "N",
+            "station_name": "FT HAMILTON PKY"
+        },
+        "R392": {
+            "color": "#FCCC0A",
+            "control_area": "D008",
+            "coords": {
+                "lat": 40.620728,
+                "lng": -73.990388
+            },
+            "division": "BMT",
+            "line_name": "N",
+            "station_name": "18 AVE"
+        },
+        "R393": {
+            "color": "#FCCC0A",
+            "control_area": "D009",
+            "coords": {
+                "lat": 40.617373,
+                "lng": -73.985088
+            },
+            "division": "BMT",
+            "line_name": "N",
+            "station_name": "20 AVE"
+        },
+        "R394": {
+            "color": "#FCCC0A",
+            "control_area": "D011",
+            "coords": {
+                "lat": 40.612006,
+                "lng": -73.982009
+            },
+            "division": "BMT",
+            "line_name": "N",
+            "station_name": "BAY PKY-22 AVE"
+        },
+        "R395": {
+            "color": "#FCCC0A",
+            "control_area": "D012",
+            "coords": {
+                "lat": 40.603967,
+                "lng": -73.980668
+            },
+            "division": "BMT",
+            "line_name": "N",
+            "station_name": "KINGS HIGHWAY"
+        },
+        "R396": {
+            "color": "#FCCC0A",
+            "control_area": "D015",
+            "coords": {
+                "lat": 40.597482,
+                "lng": -73.979359
+            },
+            "division": "BMT",
+            "line_name": "N",
+            "station_name": "AVE U"
+        },
+        "R397": {
+            "color": "#FCCC0A",
+            "control_area": "D016",
+            "coords": {
+                "lat": 40.592676,
+                "lng": -73.978243
+            },
+            "division": "BMT",
+            "line_name": "N",
+            "station_name": "86 ST"
+        },
+        "R398": {
+            "color": "#FCCC0A",
+            "control_area": "D006",
+            "coords": {
+                "lat": 40.625419,
+                "lng": -73.996632
+            },
+            "division": "BMT",
+            "line_name": "ND",
+            "station_name": "NEW UTRECHT AVE"
+        },
+        "R399": {
+            "color": "#FF6319",
+            "control_area": "E015",
+            "coords": {
+                "lat": 40.597873,
+                "lng": -73.986955
+            },
+            "division": "BMT",
+            "line_name": "D",
+            "station_name": "25 AVE"
+        },
+        "R400": {
+            "color": "#FF6319",
+            "control_area": "E016",
+            "coords": {
+                "lat": 40.588879,
+                "lng": -73.983629
+            },
+            "division": "BMT",
+            "line_name": "D",
+            "station_name": "BAY 50 ST"
+        },
+        "R401": {
+            "color": "#FF6319",
+            "control_area": "K017",
+            "coords": {
+                "lat": 40.697673,
+                "lng": -73.927131
+            },
+            "division": "BMT",
+            "line_name": "M",
+            "station_name": "CENTRAL AVE"
+        },
+        "R402": {
+            "color": "#FF6319",
+            "control_area": "K022",
+            "coords": {
+                "lat": 40.702798,
+                "lng": -73.907776
+            },
+            "division": "BMT",
+            "line_name": "M",
+            "station_name": "SENECA AVE"
+        },
+        "R403": {
+            "color": "#FF6319",
+            "control_area": "K024",
+            "coords": {
+                "lat": 40.704424,
+                "lng": -73.903077
+            },
+            "division": "BMT",
+            "line_name": "M",
+            "station_name": "FOREST AVE"
+        },
+        "R404": {
+            "color": "#FF6319",
+            "control_area": "K025",
+            "coords": {
+                "lat": 40.706181,
+                "lng": -73.89591
+            },
+            "division": "BMT",
+            "line_name": "M",
+            "station_name": "FRESH POND ROAD"
+        },
+        "R405": {
+            "color": "#EE352E",
+            "control_area": "R312",
+            "coords": {
+                "lat": 40.816505,
+                "lng": -73.907797
+            },
+            "division": "IRT",
+            "line_name": "25",
+            "station_name": "JACKSON AVE"
+        },
+        "R406": {
+            "color": "#EE352E",
+            "control_area": "R315",
+            "coords": {
+                "lat": 40.819396,
+                "lng": -73.901467
+            },
+            "division": "IRT",
+            "line_name": "25",
+            "station_name": "PROSPECT AVE"
+        },
+        "R407": {
+            "color": "#EE352E",
+            "control_area": "R316",
+            "coords": {
+                "lat": 40.822172,
+                "lng": -73.896747
+            },
+            "division": "IRT",
+            "line_name": "25",
+            "station_name": "INTERVALE-163"
+        },
+        "R408": {
+            "color": "#EE352E",
+            "control_area": "R317",
+            "coords": {
+                "lat": 40.82417,
+                "lng": -73.893228
+            },
+            "division": "IRT",
+            "line_name": "25",
+            "station_name": "SIMPSON ST"
+        },
+        "R409": {
+            "color": "#EE352E",
+            "control_area": "R319",
+            "coords": {
+                "lat": 40.829966,
+                "lng": -73.891876
+            },
+            "division": "IRT",
+            "line_name": "25",
+            "station_name": "FREEMAN ST"
+        },
+        "R410": {
+            "color": "#EE352E",
+            "control_area": "X001",
+            "coords": {},
+            "division": "IRT",
+            "lat": "",
+            "line_name": "1",
+            "lng": "",
+            "station_name": "NYC & CO - 7 AV"
+        },
+        "R411": {
+            "color": "#808183",
+            "control_area": "B009",
+            "coords": {
+                "lat": 40.67491,
+                "lng": -73.957794
+            },
+            "division": "BMT",
+            "line_name": "S",
+            "station_name": "PARK PLACE"
+        },
+        "R412": {
+            "color": "#808183",
+            "control_area": "B010",
+            "coords": {
+                "lat": 40.670499,
+                "lng": -73.958759
+            },
+            "division": "BMT",
+            "line_name": "S2345",
+            "station_name": "BOTANIC GARDEN"
+        },
+        "R413": {
+            "color": "#FF6319",
+            "control_area": "K019",
+            "coords": {
+                "lat": 40.698666,
+                "lng": -73.919685
+            },
+            "division": "BMT",
+            "line_name": "M",
+            "station_name": "KNICKERBOCKER"
+        },
+        "R414": {
+            "color": "#2850AD",
+            "control_area": "N182A",
+            "coords": {
+                "lat": 40.660476,
+                "lng": -73.830301
+            },
+            "division": "IND",
+            "line_name": "A",
+            "station_name": "HOWARD BCH-JFK"
+        },
+        "R415": {
+            "color": "#2850AD",
+            "control_area": "N183",
+            "coords": {
+                "lat": 40.608693,
+                "lng": -73.816068
+            },
+            "division": "IND",
+            "line_name": "AS",
+            "station_name": "BROAD CHANNEL"
+        },
+        "R416": {
+            "color": "#2850AD",
+            "control_area": "N184",
+            "coords": {
+                "lat": 40.588032,
+                "lng": -73.813684
+            },
+            "division": "IND",
+            "line_name": "AS",
+            "station_name": "BEACH 90 ST"
+        },
+        "R417": {
+            "color": "#2850AD",
+            "control_area": "N185",
+            "coords": {
+                "lat": 40.585514,
+                "lng": -73.820143
+            },
+            "division": "IND",
+            "line_name": "AS",
+            "station_name": "BEACH 98 ST"
+        },
+        "R418": {
+            "color": "#2850AD",
+            "control_area": "N186",
+            "coords": {
+                "lat": 40.583542,
+                "lng": -73.82643
+            },
+            "division": "IND",
+            "line_name": "AS",
+            "station_name": "BEACH 105 ST"
+        },
+        "R419": {
+            "color": "#2850AD",
+            "control_area": "N187",
+            "coords": {
+                "lat": 40.580454,
+                "lng": -73.837459
+            },
+            "division": "IND",
+            "line_name": "AS",
+            "station_name": "ROCKAWAY PK 116"
+        },
+        "R420": {
+            "color": "#FF6319",
+            "control_area": "N547",
+            "coords": {
+                "lat": 40.63615,
+                "lng": -73.978179
+            },
+            "division": "IND",
+            "line_name": "F",
+            "station_name": "DITMAS AVE"
+        },
+        "R421": {
+            "color": "#FF6319",
+            "control_area": "N551",
+            "coords": {
+                "lat": 40.625305,
+                "lng": -73.975732
+            },
+            "division": "IND",
+            "line_name": "F",
+            "station_name": "AVE I"
+        },
+        "R422": {
+            "color": "#FF6319",
+            "control_area": "N553",
+            "coords": {
+                "lat": 40.620907,
+                "lng": -73.975453
+            },
+            "division": "IND",
+            "line_name": "F",
+            "station_name": "22 AVE-BAY PKY"
+        },
+        "R423": {
+            "color": "#FF6319",
+            "control_area": "N554",
+            "coords": {
+                "lat": 40.615174,
+                "lng": -73.974166
+            },
+            "division": "IND",
+            "line_name": "F",
+            "station_name": "AVE N"
+        },
+        "R424": {
+            "color": "#FF6319",
+            "control_area": "N556",
+            "coords": {
+                "lat": 40.609147,
+                "lng": -73.972986
+            },
+            "division": "IND",
+            "line_name": "F",
+            "station_name": "AVE P"
+        },
+        "R425": {
+            "color": "#FF6319",
+            "control_area": "N559",
+            "coords": {
+                "lat": 40.596065,
+                "lng": -73.973329
+            },
+            "division": "IND",
+            "line_name": "F",
+            "station_name": "AVE U"
+        },
+        "R426": {
+            "color": "#FF6319",
+            "control_area": "N562",
+            "coords": {
+                "lat": 40.580992,
+                "lng": -73.974531
+            },
+            "division": "IND",
+            "line_name": "F",
+            "station_name": "NEPTUNE AVE"
+        },
+        "R427": {
+            "color": "#00933C",
+            "control_area": "R421",
+            "coords": {
+                "lat": 40.843635,
+                "lng": -73.836687
+            },
+            "division": "IRT",
+            "line_name": "6",
+            "station_name": "MIDDLETOWN ROAD"
+        },
+        "R428": {
+            "color": "#00933C",
+            "control_area": "R422",
+            "coords": {
+                "lat": 40.846817,
+                "lng": -73.832545
+            },
+            "division": "IRT",
+            "line_name": "6",
+            "station_name": "BUHRE AVE"
+        },
+        "R429": {
+            "color": "#00933C",
+            "control_area": "R423",
+            "coords": {
+                "lat": 40.852465,
+                "lng": -73.828125
+            },
+            "division": "IRT",
+            "line_name": "6",
+            "station_name": "PELHAM BAY PARK"
+        },
+        "R430": {
+            "color": "#00933C",
+            "control_area": "R727",
+            "coords": {
+                "lat": 40.858973,
+                "lng": -73.855355
+            },
+            "division": "IRT",
+            "line_name": "5",
+            "station_name": "PELHAM PARKWAY"
+        },
+        "R431": {
+            "color": "#00933C",
+            "control_area": "R730",
+            "coords": {
+                "lat": 40.888244,
+                "lng": -73.83085
+            },
+            "division": "IRT",
+            "line_name": "5",
+            "station_name": "DYRE AVE"
+        },
+        "R432": {
+            "color": "#996633",
+            "control_area": "J017",
+            "coords": {
+                "lat": 40.682867,
+                "lng": -73.91048
+            },
+            "division": "BMT",
+            "line_name": "JZ",
+            "station_name": "CHAUNCEY ST"
+        },
+        "R433": {
+            "color": "#996633",
+            "control_area": "J020",
+            "coords": {
+                "lat": 40.677107,
+                "lng": -73.898871
+            },
+            "division": "BMT",
+            "line_name": "J",
+            "station_name": "ALABAMA AVE"
+        },
+        "R434": {
+            "color": "#996633",
+            "control_area": "J021",
+            "coords": {
+                "lat": 40.678018,
+                "lng": -73.891726
+            },
+            "division": "BMT",
+            "line_name": "JZ",
+            "station_name": "VAN SICLEN AVE"
+        },
+        "R435": {
+            "color": "#996633",
+            "control_area": "J022",
+            "coords": {
+                "lat": 40.679938,
+                "lng": -73.884687
+            },
+            "division": "BMT",
+            "line_name": "J",
+            "station_name": "CLEVELAND ST"
+        },
+        "R436": {
+            "color": "#996633",
+            "control_area": "J023",
+            "coords": {
+                "lat": 40.681598,
+                "lng": -73.880074
+            },
+            "division": "BMT",
+            "line_name": "JZ",
+            "station_name": "NORWOOD AVE"
+        },
+        "R437": {
+            "color": "#996633",
+            "control_area": "J024",
+            "coords": {
+                "lat": 40.683209,
+                "lng": -73.873765
+            },
+            "division": "BMT",
+            "line_name": "JZ",
+            "station_name": "CRESCENT ST"
+        },
+        "R438": {
+            "color": "#2850AD",
+            "control_area": "N121B",
+            "coords": {
+                "lat": 40.678815,
+                "lng": -73.920801
+            },
+            "division": "IND",
+            "line_name": "C",
+            "station_name": "RALPH AVE"
+        },
+        "R439": {
+            "color": "#2850AD",
+            "control_area": "N123B",
+            "coords": {
+                "lat": 40.67836,
+                "lng": -73.911939
+            },
+            "division": "IND",
+            "line_name": "C",
+            "station_name": "ROCKAWAY AVE"
+        },
+        "R440": {
+            "color": "#2850AD",
+            "control_area": "N125",
+            "coords": {
+                "lat": 40.674552,
+                "lng": -73.896554
+            },
+            "division": "IND",
+            "line_name": "C",
+            "station_name": "LIBERTY AVE"
+        },
+        "R441": {
+            "color": "#2850AD",
+            "control_area": "N126",
+            "coords": {
+                "lat": 40.672786,
+                "lng": -73.890438
+            },
+            "division": "IND",
+            "line_name": "C",
+            "station_name": "VAN SICLEN AVE"
+        },
+        "R442": {
+            "color": "#2850AD",
+            "control_area": "N127",
+            "coords": {
+                "lat": 40.674161,
+                "lng": -73.880761
+            },
+            "division": "IND",
+            "line_name": "C",
+            "station_name": "SHEPHERD AVE"
+        },
+        "R443": {
+            "color": "#FF6319",
+            "control_area": "N208",
+            "coords": {
+                "lat": 40.839301,
+                "lng": -73.913355
+            },
+            "division": "IND",
+            "line_name": "BD",
+            "station_name": "170 ST"
+        },
+        "R444": {
+            "color": "#EE352E",
+            "control_area": "R335",
+            "coords": {
+                "lat": 40.898382,
+                "lng": -73.854389
+            },
+            "division": "IRT",
+            "line_name": "25",
+            "station_name": "NEREID AVE"
+        },
+        "R445": {
+            "color": "#00933C",
+            "control_area": "R401",
+            "coords": {
+                "lat": 40.810512,
+                "lng": -73.926165
+            },
+            "division": "IRT",
+            "line_name": "6",
+            "station_name": "138 ST-3 AVE"
+        },
+        "R446": {
+            "color": "#00933C",
+            "control_area": "R403",
+            "coords": {
+                "lat": 40.808044,
+                "lng": -73.919234
+            },
+            "division": "IRT",
+            "line_name": "6",
+            "station_name": "BROOK AVE"
+        },
+        "R447": {
+            "color": "#00933C",
+            "control_area": "R405",
+            "coords": {
+                "lat": 40.805737,
+                "lng": -73.914471
+            },
+            "division": "IRT",
+            "line_name": "6",
+            "station_name": "CYPRESS AVE"
+        },
+        "R448": {
+            "color": "#00933C",
+            "control_area": "R407",
+            "coords": {
+                "lat": 40.808742,
+                "lng": -73.90769
+            },
+            "division": "IRT",
+            "line_name": "6",
+            "station_name": "E 143 ST"
+        },
+        "R449": {
+            "color": "#00933C",
+            "control_area": "R409",
+            "coords": {
+                "lat": 40.812104,
+                "lng": -73.904085
+            },
+            "division": "IRT",
+            "line_name": "6",
+            "station_name": "E 149 ST"
+        },
+        "R450": {
+            "color": "#00933C",
+            "control_area": "R411",
+            "coords": {
+                "lat": 40.816083,
+                "lng": -73.89606
+            },
+            "division": "IRT",
+            "line_name": "6",
+            "station_name": "LONGWOOD AVE"
+        },
+        "R451": {
+            "color": "#EE352E",
+            "control_area": "R637",
+            "coords": {
+                "lat": 40.656648,
+                "lng": -73.950198
+            },
+            "division": "IRT",
+            "line_name": "25",
+            "station_name": "WINTHROP ST"
+        },
+        "R452": {
+            "color": "#EE352E",
+            "control_area": "R161A",
+            "coords": {
+                "lat": 40.778575,
+                "lng": -73.981912
+            },
+            "division": "IRT",
+            "line_name": "123",
+            "station_name": "72 ST"
+        },
+        "R453": {
+            "color": "#FF6319",
+            "control_area": "N508",
+            "coords": {
+                "lat": 40.742981,
+                "lng": -73.992727
+            },
+            "division": "IND",
+            "line_name": "FM",
+            "station_name": "23 ST-6 AVE"
+        },
+        "R454": {
+            "color": "#FCCC0A",
+            "control_area": "C015",
+            "coords": {
+                "lat": 40.665405,
+                "lng": -73.992877
+            },
+            "division": "BMT",
+            "line_name": "R",
+            "station_name": "PROSPECT AVE"
+        },
+        "R455": {
+            "color": "#FCCC0A",
+            "control_area": "C017",
+            "coords": {
+                "lat": 40.66043,
+                "lng": -73.997944
+            },
+            "division": "BMT",
+            "line_name": "R",
+            "station_name": "25 ST"
+        },
+        "R456": {
+            "color": "#EE352E",
+            "control_area": "R605",
+            "coords": {
+                "lat": 40.690545,
+                "lng": -73.985065
+            },
+            "division": "IRT",
+            "line_name": "23",
+            "station_name": "HOYT ST"
+        },
+        "R457": {
+            "color": "#EE352E",
+            "control_area": "MCB1",
+            "coords": {},
+            "division": "BMT",
+            "lat": "",
+            "line_name": "23",
+            "lng": "",
+            "station_name": "METROCARD BUS 1"
+        },
+        "R458": {
+            "color": "#EE352E",
+            "control_area": "MCB2",
+            "coords": {},
+            "division": "BMT",
+            "lat": "",
+            "line_name": "23",
+            "lng": "",
+            "station_name": "METROCARD BUS 2"
+        },
+        "R459": {
+            "color": "#00933C",
+            "control_area": "OB01",
+            "coords": {
+                "lat": 40.852417,
+                "lng": -73.828082
+            },
+            "division": "IND",
+            "line_name": "6",
+            "station_name": "ORCHARD BEACH"
+        },
+        "R460": {
+            "color": "#996633",
+            "control_area": "J001",
+            "coords": {
+                "lat": 40.708377,
+                "lng": -73.957751
+            },
+            "division": "BMT",
+            "line_name": "JMZ",
+            "station_name": "MARCY AVE"
+        },
+        "R461": {
+            "color": "#FF6319",
+            "control_area": "N519A",
+            "coords": {
+                "lat": 40.725297,
+                "lng": -73.996204
+            },
+            "division": "IND",
+            "line_name": "BDFQ6",
+            "station_name": "BROADWAY/LAFAY"
+        },
+        "R462": {
+            "color": "#996633",
+            "control_area": "A044",
+            "coords": {
+                "lat": 40.718697,
+                "lng": -74.000977
+            },
+            "division": "BMT",
+            "line_name": "JNQRZ6",
+            "station_name": "CANAL ST"
+        },
+        "R463": {
+            "color": "#996633",
+            "control_area": "R214",
+            "coords": {
+                "lat": 40.718697,
+                "lng": -74.000977
+            },
+            "division": "IRT",
+            "line_name": "JNQRZ6",
+            "station_name": "CANAL ST"
+        },
+        "R464": {
+            "color": "#2850AD",
+            "control_area": "N181A",
+            "coords": {
+                "lat": 40.668221,
+                "lng": -73.834026
+            },
+            "division": "IND",
+            "line_name": "A",
+            "station_name": "AQUEDUCT TRACK"
+        },
+        "R465": {
+            "color": "#EE352E",
+            "control_area": "MCV1",
+            "coords": {},
+            "division": "BMT",
+            "lat": "",
+            "line_name": "1",
+            "lng": "",
+            "station_name": "METROCARD VAN-1"
+        },
+        "R466": {
+            "color": "#EE352E",
+            "control_area": "MCV2",
+            "coords": {},
+            "division": "BMT",
+            "lat": "",
+            "line_name": "1",
+            "lng": "",
+            "station_name": "METROCARD VAN-2"
+        },
+        "R467": {
+            "color": "#EE352E",
+            "control_area": "MCV3",
+            "coords": {},
+            "division": "BMT",
+            "lat": "",
+            "line_name": "1",
+            "lng": "",
+            "station_name": "METROCARD VAN-3"
+        },
+        "R468": {
+            "color": "#FCCC0A",
+            "control_area": "TRAM1",
+            "coords": {
+                "lat": 40.761268,
+                "lng": -73.964016
+            },
+            "division": "RIT",
+            "line_name": "R",
+            "station_name": "RIT-MANHATTAN"
+        },
+        "R469": {
+            "color": "#FCCC0A",
+            "control_area": "TRAM2",
+            "coords": {
+                "lat": 40.7574,
+                "lng": -73.954006
+            },
+            "division": "RIT",
+            "line_name": "R",
+            "station_name": "RIT-ROOSEVELT"
+        },
+        "R526": {
+            "color": "#FF6319",
+            "control_area": "LI001",
+            "coords": {},
+            "division": "LIB",
+            "lat": "",
+            "line_name": "F",
+            "lng": "",
+            "station_name": "LIB-HEMPSTEAD"
+        },
+        "R532": {
+            "color": "#00933C",
+            "control_area": "WCCTR",
+            "coords": {},
+            "division": "BEE",
+            "lat": "",
+            "line_name": "5",
+            "lng": "",
+            "station_name": "WEST COUNTY CTR"
+        },
+        "R535": {
+            "color": "#2850AD",
+            "control_area": "JFK02",
+            "coords": {
+                "lat": 40.660476,
+                "lng": -73.830301
+            },
+            "division": "IND",
+            "line_name": "A",
+            "station_name": "JFK HOWARD BCH"
+        },
+        "R536": {
+            "color": "#2850AD",
+            "control_area": "JFK03",
+            "coords": {
+                "lat": 40.643942,
+                "lng": -73.782356
+            },
+            "division": "IND",
+            "line_name": "E",
+            "station_name": "JFK JAMAICA CT1"
+        },
+        "R537": {
+            "color": "#2850AD",
+            "control_area": "JFK04",
+            "coords": {
+                "lat": 40.643942,
+                "lng": -73.782356
+            },
+            "division": "IND",
+            "line_name": "E",
+            "station_name": "JFK JAMAICA CT2"
+        },
+        "R538": {
+            "color": "#B933AD",
+            "control_area": "LGA01",
+            "coords": {
+                "lat": 40.774702,
+                "lng": -73.871189
+            },
+            "division": "IRT",
+            "line_name": "7",
+            "station_name": "LGA AIRPORT CTB"
+        }
+    }
+}

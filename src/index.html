@@ -2,32 +2,52 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Flexbox Layout</title>
+    <title>NYC Subway Traffic Visualization</title>
   </head>
   <body>
-    <div class='container'>
-      <header>
-        <nav>
-          <li><a href="#"><h1>Logo</h1></a></li>
-          <li><a href="#">Link</a></li>
-          <li><a href="#">Link</a></li>
-        </nav>
-        <button>Button</button>
-      </header>
-      <div class="main-and-sidebar-wrapper">
-        <section class="main">
-          <h2>Flexbox Layout</h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-          <img src="./assets/media/landscape.jpg">
-        </section>
-        <aside class="sidebar">
-          <h3>Sidebar</h3>
-        </aside>
+    <div class="row">
+      <div class="col-lg-3">
+        <div class="sidebar">
+          <h2 class="title">NYC Subway Traffic</h2>
+          <p>Entrance and exit traffic at each MTA station over time. <span class='dates'></span></p>
+          <form id='animation-controls'>
+            <fieldset>
+              <button id ='start-animation' class='btn btn-success'>Start</button>
+              <button id='toggle-lines' class='btn btn-default d-lg-none d-xl-none pull-left'>Select Lines</button>
+            </fieldset>
+          </form>
+          <div class='d-none d-lg-block'>
+            <hr/>
+            <form id='subway-lines' >
+              <fieldset>
+                <input id='check-all' type="checkbox" value="check-all"/>
+                <label for="check-all">All</label>
+              </fieldset>
+              <fieldset>
+                <input id='check-none' type="checkbox" value="check-none"/>
+                <label for="check-none">None</label>
+              </fieldset>
+              <fieldset>
+                <input id='show-lines-control' type="checkbox" value="show-lines-control" checked="true"/>
+                <label for="show-lines-control">Show Stations</label>
+              </fieldset>
+            </form>
+          </div>
+        </div>
       </div>
-      <footer>
-        <h3>Footer</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-      </footer>
+      <div class="col-lg-9">
+        <div>
+          <div class='datetime-display'></div>
+        </div>
+        <div id="map-container">
+          <div id="map"></div>
+        </div>
+        <div class="timeline-container">
+          <ul class="timeline">
+            <li class="timeline-cursor"></li>
+          </ul>
+        </div>
+      </div>
     </div>
   </body>
 </html>
