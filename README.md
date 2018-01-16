@@ -11,6 +11,12 @@ $ npm i -D sass-loader node-sass css-loader style-loader extract-text-webpack-pl
 $ npm i -D file-loader
 ```
 
+Configure Bootstrap
+```sh
+$ npm view bootstrap dist-tags
+$ npm install bootstrap@next --save
+```
+
 ### Bundle command
 
 Development
