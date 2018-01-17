@@ -1,8 +1,11 @@
 import HeatMap from './components/HeatMap';
 import ui from './ui/UiControls';
+import callbacks from './ui/UiCallbacks';
+import MapControls from './components/MapControls';
+import SubwayLines from './components/SubwayLines';
 import './assets/scss/app.scss';
 
-let map;
+let map, mapControls;
 
 function init() {
   console.log('init');
@@ -15,6 +18,19 @@ function init() {
   window.onresize = ui.setMapSize;
 
   map = new HeatMap();
+  mapControls = new MapControls(map);
+
+  const sl = new SubwayLines();
+  const subwayLines = sl.getAllIcons();
+  const subwayListElem = document.querySelector('#subway-lines');
+  console.log(subwayListElem);
+
+  for(let lines in subwayLines) {
+    const icons = subwayLines[lines];
+    console.log('icons');
+    const fieldset = callbacks.setSubwayLineControl(mapControls, icons, lines);
+    subwayListElem.appendChild(fieldset);
+  }
 }
 
 init()
