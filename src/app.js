@@ -13,7 +13,7 @@ function init() {
   // const startDate = '2015-10-04 23:59:59 GMT-04:00'
 
   // must set size of map before initialization
-  // because .fitBounds() does not like % or vh sizes
+  // .fitBounds() does not like % or vh sizes
   ui.setMapSize();
   window.onresize = ui.setMapSize;
 
@@ -25,12 +25,15 @@ function init() {
   const subwayListElem = document.querySelector('#subway-lines');
   console.log(subwayListElem);
 
+  // init subway line controls
   for(let lines in subwayLines) {
     const icons = subwayLines[lines];
     console.log('icons');
     const fieldset = callbacks.setSubwayLineControl(mapControls, icons, lines);
     subwayListElem.appendChild(fieldset);
   }
+
+  callbacks.setResponsiveCallbacks();
 }
 
 init()
