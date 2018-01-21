@@ -1,21 +1,24 @@
 import dom from '../utils/DomUtils';
+import ui from './UiControls';
 
 export default {
   // create line checkboxes
   setSubwayLineControl(mapControls, icon, line) {
-    const fieldSet = document.createElement('fieldset');
     const checkBox = document.createElement('input');
     checkBox.setAttribute('type', 'checkbox');
     checkBox.setAttribute('id', `subway-line-${line}`);
     checkBox.setAttribute('class', 'control-subway-line');
     checkBox.value = `${line}`;
-    checkBox.onchange = () => { console.log('checked'); };
+    checkBox.onchange = () => { mapControls.showLines(ui.getSelectedLines()); };
 
     const label = document.createElement('label');
     label.innerHTML = `${icon}`;
     label.setAttribute('for', `subway-line-${line}`);
+
+    const fieldSet = document.createElement('fieldset');
     fieldSet.appendChild(checkBox);
     fieldSet.appendChild(label);
+
     return fieldSet;
   },
 
