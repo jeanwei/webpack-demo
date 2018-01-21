@@ -1,6 +1,18 @@
 import LineColors from '../resources/files/line_colors.json';
 import LineColorsGrouped from '../resources/files/line_colors_grouped.json';
 
+// this.colors = {
+//   "1": "#EE352E",
+//   "3": "#EE352E",
+//   "2": "#EE352E",
+//   "5": "#00933C",
+//   "4": "#00933C",
+//   "7": "#B933AD" }
+// this.lines = {
+//   "123": "#EE352E",
+//   "7": "#B933AD",
+//   "G": "#6CBE45" }
+
 export default class SubwayLines {
   constructor() {
     this.colors = LineColors.colors;
