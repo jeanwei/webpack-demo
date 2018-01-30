@@ -32,7 +32,7 @@
   "dependencies": {
     "bootstrap": "^4.0.0-beta.3",
     "font-awesome": "^4.7.0",
-    "lodash": "^4.17.4",
+    "leaflet.heat": "^0.2.0",
     "mapbox.js": "^3.1.1"
   }
 }

@@ -12,18 +12,15 @@ export default class SubwayMap extends LMap.Map {
     this.L = Mapbox();
     this.subwayLines = new SubwayLines();
     this.stations = StationData.stations;
-    // "R001": {
-    //     "color": "#FCCC0A",
-    //     "control_area": "R101S",
-    //     "coords": {
-    //         "lat": 40.703082,
-    //         "lng": -74.012983
-    //     },
-    //     "division": "IRT",
-    //     "line_name": "R1",
-    //     "station_name": "SOUTH FERRY"
-    // }
-
+    /**************************************
+      "R001": {
+          "color": "#FCCC0A",
+          "control_area": "R101S",
+          "coords": {"lat": 40.703082, "lng": -74.012983},
+          "division": "IRT",
+          "line_name": "R1",
+          "station_name": "SOUTH FERRY" }
+    **************************************/
 
     // layers and markers;
     this.layers = {
