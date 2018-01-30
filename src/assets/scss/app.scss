@@ -42,6 +42,34 @@ body {
   }
 }
 
+.timeline-container {
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+  z-index: 9999;
+  margin: $space*2 0px;
+  ul.timeline {
+    padding: 0px $space/2;
+    display: flex;
+    list-style: none;
+    font-size: 0.8em;
+    $text-color: #000000;
+    li {
+      z-index: 1;
+      flex: 1;
+      color: $text-color;
+      text-align: center;
+      &:not(:last-child) {
+        border-right: 1px solid $text-color;
+      }
+    }
+    .timeline-cursor {
+      position: absolute;
+      width: 0px;
+      z-index: 0;
+    }
+  }
+}
 
 
 // map
@@ -65,21 +93,31 @@ body {
   margin-bottom: 4px;
 }
 
-@include media-breakpoint-xs {
+.heat-icon {
+  $size: 2px;
+  border-radius: 50%;
+  min-width: $size;
+  min-height: $size;
+  transition: all 2s;
+  // &.heat-icon-entries {
+  //   background-color: rgba(blue, 0.2);
+  //   box-shadow: 0px 0px 5px rgba(blue, 0.5);
+  //   border: 1px solid rgba(blue, 0.3);
+  // }
+  &.heat-icon-exits {
+    background-color: rgba(red, 0.2);
+    box-shadow: 0px 0px 5px rgba(red, 0.5);
+    border: 1px solid rgba(red, 0.3);
+  }
+}
+.heat-transition-enter{
+  opacity: 0;
+}
+.heat-transition-enter-active {
+  opacity: 1;
 }
 
-@include media-breakpoint-between(sm, md) {
-}
 
-@include media-breakpoint-between(md, lg) {
-
-}
-@include media-breakpoint-between(lg, xl) {
-
-}
-@include media-breakpoint-xl {
-
-}
 
 // @font-face {
 //   font-family: 'MyFont';
